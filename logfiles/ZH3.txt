@@ -1,0 +1,2086 @@
+Game is 1835. 
+Player 1 is Pep. 
+Player 2 is Peter. 
+Player 3 is Dan. 
+Player 4 is Hakko. 
+Each player receives 475M from the Bank. 
+The Bank has 10100M. 
+Start of phase 2. 
+Bank size is 10100M 
+ ================ Start of initial round ================ 
+Hakko has the Priority Deal 
+Hakko buys M2 for 170M 
+M2 floats and receives 170M 
+Dan buys M5 for 80M 
+M5 floats and receives 80M 
+Peter buys M3 for 80M 
+M3 floats and receives 80M 
+Pep buys M4 for 160M 
+M4 floats and receives 160M 
+Pep buys M1 for 80M 
+M1 floats and receives 80M 
+Peter buys M6 for 80M 
+M6 floats and receives 80M 
+Dan buys BB for 130M 
+Hakko buys BY 20% president share for 184M 
+Pep buys LD for 190M 
+Pep also gets SX 20% president share 
+Peter buys NF for 100M 
+Peter also gets BY 10% share 
+Dan buys OBB for 120M 
+Dan also gets BY 10% share 
+Hakko cannot buy anything 
+Pep cannot buy anything 
+Peter buys HB for 160M 
+Dan cannot buy anything 
+Hakko cannot buy anything 
+Pep cannot buy anything 
+Peter cannot buy anything 
+All players have passed. 
+M1 has 80M 
+M2 has 170M 
+M3 has 80M 
+M4 has 160M 
+M5 has 80M 
+M6 has 80M 
+Pep has 45M 
+Peter has 55M 
+Dan has 145M 
+Hakko has 121M 
+ ======================= Start of Operating Round 0.0 ======================= 
+Peter receives 5M for NF. 
+Dan receives 10M for OBB. 
+Pep receives 20M for LD. 
+Dan receives 25M for BB. 
+Peter receives 30M for HB. 
+A short OR has been held, in which only the sold privates have paid out. 
+M1 has 80M 
+M2 has 170M 
+M3 has 80M 
+M4 has 160M 
+M5 has 80M 
+M6 has 80M 
+Pep has 65M 
+Peter has 90M 
+Dan has 180M 
+Hakko has 121M 
+ ================ Start of initial round ================ 
+Dan has the Priority Deal 
+Dan buys PfB for 150M 
+Dan also gets BY 10% share 
+BY floats and receives 460M 
+M1 has 80M 
+M2 has 170M 
+M3 has 80M 
+M4 has 160M 
+M5 has 80M 
+M6 has 80M 
+BY has 460M 
+Pep has 65M 
+Peter has 90M 
+Dan has 30M 
+Hakko has 121M 
+ ================== Start of Stock Round 1 ================== 
+Hakko has the Priority Deal 
+Hakko buys a 10% share of BY from IPO for 92M. 
+The price (92M) is paid to BY 
+Pep passes. 
+Peter passes. 
+Dan passes. 
+Hakko passes. 
+ 
+All players have passed, end of SR 1 
+M1 has 80M 
+M2 has 170M 
+M3 has 80M 
+M4 has 160M 
+M5 has 80M 
+M6 has 80M 
+BY has 552M 
+Pep has 65M 
+Peter has 90M 
+Dan has 30M 
+Hakko has 29M 
+ ======================= Start of Operating Round 1.1 ======================= 
+Peter receives 5M for NF. 
+Dan receives 10M for OBB. 
+Dan receives 15M for PfB. 
+Pep receives 20M for LD. 
+Dan receives 25M for BB. 
+Peter receives 30M for HB. 
+ 
+M1 (Pep) operates. 
+M1 lays tile #202 at hex H2/W 
+M1 does not pay a dividend 
+M1 buys a 2-train from IPO for 80M. 
+First 2-train bought. 
+
+ 
+M2 (Hakko) operates. 
+M2 lays tile #8 at hex E17/NW 
+M2 does not pay a dividend 
+
+ 
+M3 (Peter) operates. 
+M3 lays tile #5 at hex F14/NE 
+M3 does not pay a dividend 
+M3 buys a 2-train from IPO for 80M. 
+
+ 
+M4 (Pep) operates. 
+M4 lays tile #57 at hex G5/SW 
+M4 does not pay a dividend 
+M4 buys a 2-train from IPO for 80M. 
+M4 buys a 2-train from IPO for 80M. 
+
+ 
+M5 (Dan) operates. 
+M5 lays tile #8 at hex D18/NE 
+M5 does not pay a dividend 
+M5 buys a 2-train from IPO for 80M. 
+
+ 
+M6 (Peter) operates. 
+M6 lays tile #9 at hex B10/NW 
+M6 does not pay a dividend 
+M6 buys a 2-train from IPO for 80M. 
+
+ 
+BY (Hakko) operates. 
+BY lays tile #202 at hex O15/NE 
+BY lays tile #8 at hex N14/NE 
+BY does not pay a dividend 
+BY price goes from 92M(C3) to 86M(B3). 
+BY buys a 2-train from IPO for 80M. 
+BY buys a 2-train from IPO for 80M. 
+BY buys a 2-train from IPO for 80M. 
+All 2-trains are sold out, 2+2-trains now available 
+BY buys a 2+2-train from IPO for 120M. 
+First 2+2-train bought. 
+
+ 
+End of Operating Round 1.1 
+Net worth gain/loss of Pep in OR 1.1 is 20M 
+Net worth gain/loss of Peter in OR 1.1 is 29M 
+Net worth gain/loss of Dan in OR 1.1 is 38M 
+Net worth gain/loss of Hakko in OR 1.1 is -18M 
+M1 has 0M 
+M2 has 170M 
+M3 has 0M 
+M4 has 0M 
+M5 has 0M 
+M6 has 0M 
+BY has 192M 
+Pep has 85M 
+Peter has 125M 
+Dan has 80M 
+Hakko has 29M 
+ ================== Start of Stock Round 2 ================== 
+Pep has the Priority Deal 
+Pep passes. 
+Peter buys a 10% share of BY from IPO for 92M. 
+The price (92M) is paid to BY 
+Dan passes. 
+Hakko passes. 
+Pep passes. 
+Peter passes. 
+ 
+All players have passed, end of SR 2 
+M1 has 0M 
+M2 has 170M 
+M3 has 0M 
+M4 has 0M 
+M5 has 0M 
+M6 has 0M 
+BY has 284M 
+Pep has 85M 
+Peter has 33M 
+Dan has 80M 
+Hakko has 29M 
+ ======================= Start of Operating Round 2.1 ======================= 
+Peter receives 5M for NF. 
+Dan receives 10M for OBB. 
+Dan receives 15M for PfB. 
+Pep receives 20M for LD. 
+Dan receives 25M for BB. 
+Peter receives 30M for HB. 
+ 
+M1 (Pep) operates. 
+M1 lays tile #56 at hex H4/NW 
+M1 earns 40M 
+M1 splits dividend of 40M 
+M1 receives 20M from the split of the revenue. 
+Pep receives 20M for 1 100% shares 
+
+ 
+M2 (Hakko) operates. 
+M2 lays tile #8 at hex D16/SE 
+M2 does not pay a dividend 
+M2 buys a 2+2-train from IPO for 120M. 
+
+ 
+M3 (Peter) operates. 
+M3 lays tile #8 at hex E13/SE 
+M3 earns 40M 
+M3 splits dividend of 40M 
+M3 receives 20M from the split of the revenue. 
+Peter receives 20M for 1 100% shares 
+
+ 
+M4 (Pep) operates. 
+M4 lays tile #58 at hex F6/E 
+M4 earns 60M 
+M4 splits dividend of 60M 
+M4 receives 30M from the split of the revenue. 
+Pep receives 30M for 1 100% shares 
+
+ 
+M5 (Dan) operates. 
+M5 lays tile #8 at hex C19/E 
+M5 earns 50M 
+M5 splits dividend of 50M 
+M5 receives 25M from the split of the revenue. 
+Dan receives 25M for 1 100% shares 
+
+ 
+M6 (Peter) operates. 
+M6 lays tile #6 at hex A11/NW 
+M6 earns 60M 
+M6 splits dividend of 60M 
+M6 receives 30M from the split of the revenue. 
+Peter receives 30M for 1 100% shares 
+
+ 
+BY (Hakko) operates. 
+BY lays tile #58 at hex M15/SW for 50M 
+BY lays tile #9 at hex O13/NW 
+BY lays a token on L14 for 60M 
+BY earns 80M 
+BY pays out full dividend of 80M 
+Dan receives 16M for 2 10% shares 
+Peter receives 16M for 2 10% shares 
+Hakko receives 24M for 3 10% shares 
+BY price goes from 86M(B3) to 92M(C3). 
+
+ 
+End of Operating Round 2.1 
+Net worth gain/loss of Pep in OR 2.1 is 70M 
+Net worth gain/loss of Peter in OR 2.1 is 113M 
+Net worth gain/loss of Dan in OR 2.1 is 103M 
+Net worth gain/loss of Hakko in OR 2.1 is 42M 
+M1 has 20M 
+M2 has 50M 
+M3 has 20M 
+M4 has 30M 
+M5 has 25M 
+M6 has 30M 
+BY has 174M 
+Pep has 155M 
+Peter has 134M 
+Dan has 171M 
+Hakko has 53M 
+ ================== Start of Stock Round 3 ================== 
+Dan has the Priority Deal 
+Dan buys a 10% share of BY from IPO for 92M. 
+The price (92M) is paid to BY 
+Hakko passes. 
+Pep buys a 10% share of BY from IPO for 92M. 
+The price (92M) is paid to BY 
+Peter buys a 10% share of BY from IPO for 92M. 
+The price (92M) is paid to BY 
+Dan passes. 
+Hakko passes. 
+Pep passes. 
+Peter passes. 
+ 
+All players have passed, end of SR 3 
+BY price goes from 92M(C3) to 98M(C2). 
+BY is sold out, price rises from 92M(C3) to 98M(C2) 
+M1 has 20M 
+M2 has 50M 
+M3 has 20M 
+M4 has 30M 
+M5 has 25M 
+M6 has 30M 
+BY has 450M 
+Pep has 63M 
+Peter has 42M 
+Dan has 79M 
+Hakko has 53M 
+ ======================= Start of Operating Round 3.1 ======================= 
+Peter receives 5M for NF. 
+Dan receives 10M for OBB. 
+Dan receives 15M for PfB. 
+Pep receives 20M for LD. 
+Dan receives 25M for BB. 
+Peter receives 30M for HB. 
+ 
+M1 (Pep) operates. 
+M1 lays tile #9 at hex J2/NW 
+M1 earns 40M 
+M1 splits dividend of 40M 
+M1 receives 20M from the split of the revenue. 
+Pep receives 20M for 1 100% shares 
+
+ 
+M2 (Hakko) operates. 
+M2 lays tile #8 at hex D14/NW for 50M 
+M2 earns 70M 
+M2 splits dividend of 70M 
+M2 receives 35M from the split of the revenue. 
+Hakko receives 35M for 1 100% shares 
+
+ 
+M3 (Peter) operates. 
+M3 lays tile #8 at hex E11/NW 
+M3 earns 40M 
+M3 splits dividend of 40M 
+M3 receives 20M from the split of the revenue. 
+Peter receives 20M for 1 100% shares 
+
+ 
+M4 (Pep) operates. 
+M4 lays tile #9 at hex F8/W 
+M4 earns 60M 
+M4 splits dividend of 60M 
+M4 receives 30M from the split of the revenue. 
+Pep receives 30M for 1 100% shares 
+
+ 
+M5 (Dan) operates. 
+M5 earns 50M 
+M5 splits dividend of 50M 
+M5 receives 25M from the split of the revenue. 
+Dan receives 25M for 1 100% shares 
+
+ 
+M6 (Peter) operates. 
+M6 lays tile #58 at hex B12/NW 
+M6 earns 60M 
+M6 splits dividend of 60M 
+M6 receives 30M from the split of the revenue. 
+Peter receives 30M for 1 100% shares 
+
+ 
+BY (Hakko) operates. 
+BY lays tile #9 at hex M13/SW for 50M 
+BY lays tile #6 at hex N12/SW 
+BY earns 180M 
+BY pays out full dividend of 180M 
+Dan receives 54M for 3 10% shares 
+Peter receives 54M for 3 10% shares 
+Pep receives 18M for 1 10% shares 
+Hakko receives 54M for 3 10% shares 
+BY price goes from 98M(C2) to 108M(D2). 
+
+ 
+End of Operating Round 3.1 
+Net worth gain/loss of Pep in OR 3.1 is 98M 
+Net worth gain/loss of Peter in OR 3.1 is 169M 
+Net worth gain/loss of Dan in OR 3.1 is 159M 
+Net worth gain/loss of Hakko in OR 3.1 is 119M 
+M1 has 40M 
+M2 has 35M 
+M3 has 40M 
+M4 has 60M 
+M5 has 50M 
+M6 has 60M 
+BY has 400M 
+Pep has 151M 
+Peter has 181M 
+Dan has 208M 
+Hakko has 142M 
+ ================== Start of Stock Round 4 ================== 
+Dan has the Priority Deal 
+Dan buys a 10% share of SX from IPO for 88M. 
+Hakko buys a 10% share of SX from IPO for 88M. 
+Pep buys a 10% share of SX from IPO for 88M. 
+SX floats and receives 440M 
+Peter buys a 10% share of SX from IPO for 88M. 
+The price (88M) is paid to SX 
+Dan buys a 10% share of SX from IPO for 88M. 
+The price (88M) is paid to SX 
+Hakko passes. 
+Pep passes. 
+Peter buys a 10% share of SX from IPO for 88M. 
+The price (88M) is paid to SX 
+Dan passes. 
+Hakko passes. 
+Pep passes. 
+Peter passes. 
+ 
+All players have passed, end of SR 4 
+BY is sold out, but price stays at 108M(D2) 
+M1 has 40M 
+M2 has 35M 
+M3 has 40M 
+M4 has 60M 
+M5 has 50M 
+M6 has 60M 
+BY has 400M 
+SX has 704M 
+Pep has 63M 
+Peter has 5M 
+Dan has 32M 
+Hakko has 54M 
+ ======================= Start of Operating Round 4.1 ======================= 
+Peter receives 5M for NF. 
+Dan receives 10M for OBB. 
+Dan receives 15M for PfB. 
+Pep receives 20M for LD. 
+Dan receives 25M for BB. 
+Peter receives 30M for HB. 
+ 
+M1 (Pep) operates. 
+M1 lays tile #58 at hex K3/NW 
+M1 earns 40M 
+M1 splits dividend of 40M 
+M1 receives 20M from the split of the revenue. 
+Pep receives 20M for 1 100% shares 
+
+ 
+M2 (Hakko) operates. 
+M2 lays tile #3 at hex B14/SE 
+M2 earns 70M 
+M2 splits dividend of 70M 
+M2 receives 35M from the split of the revenue. 
+Hakko receives 35M for 1 100% shares 
+
+ 
+M3 (Peter) operates. 
+M3 lays tile #8 at hex D10/NE 
+M3 earns 60M 
+M3 splits dividend of 60M 
+M3 receives 30M from the split of the revenue. 
+Peter receives 30M for 1 100% shares 
+
+ 
+M4 (Pep) operates. 
+M4 lays tile #5 at hex F10/NE 
+M4 earns 60M 
+M4 splits dividend of 60M 
+M4 receives 30M from the split of the revenue. 
+Pep receives 30M for 1 100% shares 
+
+ 
+M5 (Dan) operates. 
+M5 earns 50M 
+M5 splits dividend of 50M 
+M5 receives 25M from the split of the revenue. 
+Dan receives 25M for 1 100% shares 
+
+ 
+M6 (Peter) operates. 
+M6 earns 60M 
+M6 splits dividend of 60M 
+M6 receives 30M from the split of the revenue. 
+Peter receives 30M for 1 100% shares 
+
+ 
+BY (Hakko) operates. 
+BY earns 180M 
+BY pays out full dividend of 180M 
+Dan receives 54M for 3 10% shares 
+Peter receives 54M for 3 10% shares 
+Pep receives 18M for 1 10% shares 
+Hakko receives 54M for 3 10% shares 
+BY price goes from 108M(D2) to 120M(E2). 
+
+ 
+SX (Pep) operates. 
+SX lays tile #6 at hex H16/SW 
+SX lays tile #69 at hex I17/NE 
+SX does not pay a dividend 
+SX price goes from 88M(C4) to 84M(B4). 
+SX buys a 2+2-train from IPO for 120M. 
+Private LD is closed 
+SX buys a 2+2-train from IPO for 120M. 
+All 2+2-trains are sold out, 3-trains now available 
+SX buys a 3-train from IPO for 180M. 
+First 3-train bought. 
+Start of phase 3. 
+
+ 
+End of Operating Round 4.1 
+Net worth gain/loss of Pep in OR 4.1 is -102M 
+Net worth gain/loss of Peter in OR 4.1 is 177M 
+Net worth gain/loss of Dan in OR 4.1 is 157M 
+Net worth gain/loss of Hakko in OR 4.1 is 121M 
+M1 has 60M 
+M2 has 70M 
+M3 has 70M 
+M4 has 90M 
+M5 has 75M 
+M6 has 90M 
+BY has 400M 
+SX has 284M 
+Pep has 151M 
+Peter has 154M 
+Dan has 161M 
+Hakko has 143M 
+ ================== Start of Stock Round 5 ================== 
+Dan has the Priority Deal 
+Dan buys a 10% share of SX from IPO for 88M. 
+The price (88M) is paid to SX 
+Hakko passes. 
+Pep buys a 10% share of SX from IPO for 88M. 
+The price (88M) is paid to SX 
+All "BA" shares are now available for purchase 
+Peter sells a 10% certificate of SX to Pool for 84M. 
+SX price goes from 84M(B4) to 80M(B5). 
+Peter starts BA at 84M and pays 168M for 2 shares (20%) to BANK 
+4 10% "PR" shares are now available for purchase 
+Dan autopasses 
+Hakko passes. 
+Pep sells a 10% certificate of BY to Pool for 120M. 
+BY price goes from 120M(E2) to 110M(E3). 
+Pep buys a 10% share of SX from Pool for 80M. 
+Peter sells a 10% certificate of SX to Pool for 80M. 
+SX price goes from 80M(B5) to 74M(B6). 
+Peter buys a 10% share of BY from Pool for 110M. 
+Peter is now president of BY 
+Dan autopasses 
+Hakko sells 3 10% certificates (30%) of BY to Pool for 330M. 
+BY price goes from 110M(E3) to 102M(E4). 
+Hakko buys a 10% share of PR from IPO for 154M. 
+Pep buys a 10% share of SX from Pool for 74M. 
+Peter passes. 
+Dan autopasses 
+Hakko buys a 10% share of PR from IPO for 154M. 
+Pep autopasses 
+Peter autopasses 
+Dan autopasses 
+Hakko buys a 10% share of PR from IPO for 154M. 
+Pep autopasses 
+Peter autopasses 
+Dan autopasses 
+Hakko passes. 
+ 
+All players have passed, end of SR 5 
+SX price goes from 74M(B6) to 80M(B5). 
+SX is sold out, price rises from 74M(B6) to 80M(B5) 
+M1 has 60M 
+M2 has 70M 
+M3 has 70M 
+M4 has 90M 
+M5 has 75M 
+M6 has 90M 
+BY has 400M 
+SX has 460M 
+Pep has 29M 
+Peter has 40M 
+Dan has 73M 
+Hakko has 11M 
+ ======================= Start of Operating Round 5.1 ======================= 
+Peter receives 5M for NF. 
+Dan receives 10M for OBB. 
+Dan receives 15M for PfB. 
+Dan receives 25M for BB. 
+Peter receives 30M for HB. 
+ 
+M1 (Pep) operates. 
+M1 lays tile #207 at hex H2/E 
+M1 earns 50M 
+M1 splits dividend of 50M 
+M1 receives 25M from the split of the revenue. 
+Pep receives 25M for 1 100% shares 
+M1 buys a 2-train from M4 for 85M. 
+
+ 
+M2 (Hakko) operates. 
+M2 lays tile #209 at hex E19/SW 
+M2 earns 90M 
+M2 splits dividend of 90M 
+M2 receives 45M from the split of the revenue. 
+Hakko receives 45M for 1 100% shares 
+
+ 
+M3 (Peter) operates. 
+M3 lays tile #14 at hex F14/W 
+M3 earns 70M 
+M3 splits dividend of 70M 
+M3 receives 35M from the split of the revenue. 
+Peter receives 35M for 1 100% shares 
+M3 buys a 2-train from BY for 105M. 
+
+ 
+M4 (Pep) operates. 
+M4 lays tile #14 at hex G5/SW 
+M4 earns 40M 
+M4 splits dividend of 40M 
+M4 receives 20M from the split of the revenue. 
+Pep receives 20M for 1 100% shares 
+M4 buys a 3-train from IPO for 180M. 
+
+ 
+M5 (Dan) operates. 
+M5 lays tile #8 at hex D20/SE 
+M5 earns 80M 
+M5 splits dividend of 80M 
+M5 receives 40M from the split of the revenue. 
+Dan receives 40M for 1 100% shares 
+
+ 
+M6 (Peter) operates. 
+M6 lays tile #12 at hex A11/W 
+M6 earns 70M 
+M6 splits dividend of 70M 
+M6 receives 35M from the split of the revenue. 
+Peter receives 35M for 1 100% shares 
+M6 buys a 2+2-train from BY for 125M. 
+
+ 
+BY (Peter) operates. 
+BY lays tile #207 at hex O15/W 
+BY earns 110M 
+BY pays out full dividend of 110M 
+Dan receives 33M for 3 10% shares 
+Peter receives 44M for 4 10% shares 
+BY receives 33M for 3 10% shares 
+BY price goes from 102M(E4) to 112M(F4). 
+BY buys a 3-train from IPO for 180M. 
+BY buys a 3-train from IPO for 180M. 
+All 3-trains are sold out, 3+3-trains now available 
+
+ 
+SX (Pep) operates. 
+SX lays tile #202 at hex H20/W 
+SX lays a token on H20 for 40M 
+SX earns 130M 
+SX pays out full dividend of 130M 
+Dan receives 39M for 3 10% shares 
+Hakko receives 13M for 1 10% shares 
+Pep receives 78M for 6 10% shares 
+SX price goes from 80M(B5) to 86M(C5). 
+
+ 
+End of Operating Round 5.1 
+Net worth gain/loss of Pep in OR 5.1 is 159M 
+Net worth gain/loss of Peter in OR 5.1 is 189M 
+Net worth gain/loss of Dan in OR 5.1 is 210M 
+Net worth gain/loss of Hakko in OR 5.1 is 64M 
+M1 has 0M 
+M2 has 115M 
+M3 has 0M 
+M4 has 15M 
+M5 has 115M 
+M6 has 0M 
+BY has 303M 
+SX has 420M 
+Pep has 152M 
+Peter has 189M 
+Dan has 235M 
+Hakko has 69M 
+ ======================= Start of Operating Round 5.2 ======================= 
+Peter receives 5M for NF. 
+Dan receives 10M for OBB. 
+Dan receives 15M for PfB. 
+Dan receives 25M for BB. 
+Peter receives 30M for HB. 
+ 
+M1 (Pep) operates. 
+M1 lays tile #87 at hex H4/W 
+M1 earns 100M 
+M1 splits dividend of 100M 
+M1 receives 50M from the split of the revenue. 
+Pep receives 50M for 1 100% shares 
+
+ 
+M2 (Hakko) operates. 
+M2 lays tile #204 at hex B12/SE 
+M2 earns 100M 
+M2 splits dividend of 100M 
+M2 receives 50M from the split of the revenue. 
+Hakko receives 50M for 1 100% shares 
+
+ 
+M3 (Peter) operates. 
+M3 lays tile #8 at hex F16/W 
+M3 earns 120M 
+M3 splits dividend of 120M 
+M3 receives 60M from the split of the revenue. 
+Peter receives 60M for 1 100% shares 
+
+ 
+M4 (Pep) operates. 
+M4 lays tile #205 at hex F10/NW 
+M4 earns 120M 
+M4 splits dividend of 120M 
+M4 receives 60M from the split of the revenue. 
+Pep receives 60M for 1 100% shares 
+
+ 
+M5 (Dan) operates. 
+M5 lays tile #29 at hex D20/SE 
+M5 earns 80M 
+M5 splits dividend of 80M 
+M5 receives 40M from the split of the revenue. 
+Dan receives 40M for 1 100% shares 
+
+ 
+M6 (Peter) operates. 
+M6 lays tile #25 at hex E17/NW 
+M6 earns 80M 
+M6 splits dividend of 80M 
+M6 receives 40M from the split of the revenue. 
+Peter receives 40M for 1 100% shares 
+
+ 
+BY (Peter) operates. 
+BY lays tile #15 at hex N12/NE 
+BY earns 220M 
+BY pays out full dividend of 220M 
+Dan receives 66M for 3 10% shares 
+Peter receives 88M for 4 10% shares 
+BY receives 66M for 3 10% shares 
+BY price goes from 112M(F4) to 124M(G4). 
+
+ 
+SX (Pep) operates. 
+SX lays tile #208 at hex H20/W 
+SX earns 150M 
+SX pays out full dividend of 150M 
+Dan receives 45M for 3 10% shares 
+Pep receives 90M for 6 10% shares 
+Hakko receives 15M for 1 10% shares 
+SX price goes from 86M(C5) to 90M(D5). 
+
+ 
+End of Operating Round 5.2 
+Net worth gain/loss of Pep in OR 5.2 is 224M 
+Net worth gain/loss of Peter in OR 5.2 is 271M 
+Net worth gain/loss of Dan in OR 5.2 is 249M 
+Net worth gain/loss of Hakko in OR 5.2 is 69M 
+M1 has 50M 
+M2 has 165M 
+M3 has 60M 
+M4 has 75M 
+M5 has 155M 
+M6 has 40M 
+BY has 369M 
+SX has 420M 
+Pep has 352M 
+Peter has 412M 
+Dan has 436M 
+Hakko has 134M 
+ ================== Start of Stock Round 6 ================== 
+Pep has the Priority Deal 
+Pep buys a 10% share of BY from Pool for 124M. 
+Peter buys a 10% share of BY from Pool for 124M. 
+Dan sells 2 10% certificates (20%) of BY to Pool for 248M. 
+BY price goes from 124M(G4) to 114M(G5). 
+Dan sells 2 10% certificates (20%) of SX to Pool for 180M. 
+SX price goes from 90M(D5) to 88M(D6). 
+Dan buys a 10% share of PR from IPO for 154M. 
+Hakko buys a 10% share of BY from Pool for 114M. 
+Pep buys a 10% share of SX from Pool for 88M. 
+Peter buys a 10% share of BY from Pool for 114M. 
+Dan sells a 10% certificate of BY to Pool for 114M. 
+BY price goes from 114M(G5) to 106M(G6). 
+Dan sells a 10% certificate of SX to Pool for 88M. 
+SX price goes from 88M(D6) to 84M(D7). 
+Dan passes. 
+Hakko autopasses 
+Pep buys a 10% share of SX from Pool for 84M. 
+Peter buys a 10% share of BY from Pool for 106M. 
+Dan buys a 10% share of BA from IPO for 84M. 
+Hakko autopasses 
+Pep autopasses 
+Peter passes. 
+Dan buys a 10% share of BA from IPO for 84M. 
+Hakko autopasses 
+Pep autopasses 
+Peter passes. 
+Dan buys a 10% share of BA from IPO for 84M. 
+Dan is now president of BA 
+BA floats and receives 420M 
+All "WT" shares are now available for purchase 
+Hakko autopasses 
+Pep autopasses 
+Peter passes. 
+Dan starts WT at 84M and pays 168M for 2 shares (20%) to BANK 
+Hakko autopasses 
+Pep autopasses 
+Peter passes. 
+Dan buys a 10% share of WT from IPO for 84M. 
+Hakko autopasses 
+Pep autopasses 
+Peter passes. 
+Dan buys a 10% share of WT from IPO for 84M. 
+Hakko autopasses 
+Pep autopasses 
+Peter passes. 
+Dan buys a 10% share of WT from IPO for 84M. 
+WT floats and receives 420M 
+All "HE" shares are now available for purchase 
+Hakko autopasses 
+Pep autopasses 
+Peter passes. 
+Dan buys a 10% share of BA from IPO for 84M. 
+The price (84M) is paid to BA 
+Hakko autopasses 
+Pep autopasses 
+Peter passes. 
+Dan buys a 10% share of WT from IPO for 84M. 
+The price (84M) is paid to WT 
+Hakko autopasses 
+Pep autopasses 
+Peter passes. 
+Dan passes. 
+ 
+All players have passed, end of SR 6 
+M1 has 50M 
+M2 has 165M 
+M3 has 60M 
+M4 has 75M 
+M5 has 155M 
+M6 has 40M 
+BY has 369M 
+SX has 420M 
+BA has 504M 
+WT has 504M 
+Pep has 56M 
+Peter has 68M 
+Dan has 72M 
+Hakko has 20M 
+ ======================= Start of Operating Round 6.1 ======================= 
+Peter receives 5M for NF. 
+Dan receives 10M for OBB. 
+Dan receives 15M for PfB. 
+Dan receives 25M for BB. 
+Peter receives 30M for HB. 
+ 
+M1 (Pep) operates. 
+M1 lays tile #215 at hex G3/W for 50M 
+M1 earns 120M 
+M1 splits dividend of 120M 
+M1 receives 60M from the split of the revenue. 
+Pep receives 60M for 1 100% shares 
+
+ 
+M2 (Hakko) operates. 
+M2 lays tile #87 at hex B14/SE 
+M2 earns 100M 
+M2 splits dividend of 100M 
+M2 receives 50M from the split of the revenue. 
+Hakko receives 50M for 1 100% shares 
+
+ 
+M3 (Peter) operates. 
+M3 lays tile #24 at hex F16/W 
+M3 earns 140M 
+M3 splits dividend of 140M 
+M3 receives 70M from the split of the revenue. 
+Peter receives 70M for 1 100% shares 
+
+ 
+M4 (Pep) operates. 
+M4 lays tile #58 at hex G15/NW 
+M4 earns 140M 
+M4 splits dividend of 140M 
+M4 receives 70M from the split of the revenue. 
+Pep receives 70M for 1 100% shares 
+
+ 
+M5 (Dan) operates. 
+M5 lays tile #9 at hex F20/NW 
+M5 earns 80M 
+M5 splits dividend of 80M 
+M5 receives 40M from the split of the revenue. 
+Dan receives 40M for 1 100% shares 
+
+ 
+M6 (Peter) operates. 
+M6 lays tile #7 at hex K5/W 
+M6 earns 90M 
+M6 splits dividend of 90M 
+M6 receives 45M from the split of the revenue. 
+Peter receives 45M for 1 100% shares 
+
+ 
+BY (Peter) operates. 
+BY lays tile #19 at hex N14/W 
+BY earns 220M 
+BY pays out full dividend of 220M 
+Peter receives 154M for 7 10% shares 
+Pep receives 22M for 1 10% shares 
+Hakko receives 22M for 1 10% shares 
+BY receives 22M for 1 10% shares 
+BY price goes from 106M(G6) to 114M(G5). 
+
+ 
+SX (Pep) operates. 
+SX lays tile #7 at hex G17/SW 
+SX lays a token on E19 for 60M 
+SX earns 290M 
+SX pays out full dividend of 290M 
+Pep receives 232M for 8 10% shares 
+Hakko receives 29M for 1 10% shares 
+SX receives 29M for 1 10% shares 
+SX price goes from 84M(D7) to 90M(E7). 
+SX buys a 3-train from M4 for 1M. 
+
+ 
+BA (Dan) operates. 
+BA lays tile #210 at hex L6/W 
+BA does not pay a dividend 
+BA price goes from 84M(B4) to 78M(A4). 
+BA buys a 3+3-train from IPO for 270M. 
+First 3+3-train bought. 
+BA buys a 2-train from M5 for 234M. 
+
+ 
+WT (Dan) operates. 
+WT lays tile #5 at hex M9/NE 
+WT does not pay a dividend 
+WT price goes from 84M(B4) to 78M(A4). 
+WT buys a 3+3-train from IPO for 270M. 
+WT buys a 2-train from BA for 1M. 
+
+ 
+End of Operating Round 6.1 
+Net worth gain/loss of Pep in OR 6.1 is 440M 
+Net worth gain/loss of Peter in OR 6.1 is 348M 
+Net worth gain/loss of Dan in OR 6.1 is 30M 
+Net worth gain/loss of Hakko in OR 6.1 is 115M 
+M1 has 60M 
+M2 has 215M 
+M3 has 130M 
+M4 has 146M 
+M5 has 429M 
+M6 has 85M 
+BY has 391M 
+SX has 388M 
+BA has 1M 
+WT has 233M 
+Pep has 440M 
+Peter has 372M 
+Dan has 162M 
+Hakko has 121M 
+ ======================= Start of Operating Round 6.2 ======================= 
+Peter receives 5M for NF. 
+Dan receives 10M for OBB. 
+Dan receives 15M for PfB. 
+Dan receives 25M for BB. 
+Peter receives 30M for HB. 
+ 
+M1 (Pep) operates. 
+M1 lays tile #15 at hex H16/NW 
+M1 earns 120M 
+M1 splits dividend of 120M 
+M1 receives 60M from the split of the revenue. 
+Pep receives 60M for 1 100% shares 
+
+ 
+M2 (Hakko) operates. 
+M2 lays tile #4 at hex B16/W 
+M2 earns 100M 
+M2 splits dividend of 100M 
+M2 receives 50M from the split of the revenue. 
+Hakko receives 50M for 1 100% shares 
+
+ 
+M3 (Peter) operates. 
+M3 lays tile #9 at hex F18/W 
+M3 earns 140M 
+M3 splits dividend of 140M 
+M3 receives 70M from the split of the revenue. 
+Peter receives 70M for 1 100% shares 
+
+ 
+M4 (Pep) operates. 
+M4 lays tile #9 at hex H18/W 
+M4 earns 60M 
+M4 splits dividend of 60M 
+M4 receives 30M from the split of the revenue. 
+Pep receives 30M for 1 100% shares 
+M4 buys a 2+2-train from SX for 176M. 
+
+ 
+M5 (Dan) operates. 
+M5 lays tile #27 at hex K5/W 
+M5 does not pay a dividend 
+M5 buys a 3+3-train from IPO for 270M. 
+All 3+3-trains are sold out, 4-trains now available 
+M5 buys a 2-train from WT for 159M. 
+
+ 
+M6 (Peter) operates. 
+M6 earns 90M 
+M6 splits dividend of 90M 
+M6 receives 45M from the split of the revenue. 
+Peter receives 45M for 1 100% shares 
+
+ 
+BY (Peter) operates. 
+BY lays tile #7 at hex N16/SW 
+BY earns 280M 
+BY pays out full dividend of 280M 
+Peter receives 196M for 7 10% shares 
+Pep receives 28M for 1 10% shares 
+Hakko receives 28M for 1 10% shares 
+BY receives 28M for 1 10% shares 
+BY price goes from 114M(G5) to 126M(H5). 
+
+ 
+SX (Pep) operates. 
+SX lays tile #26 at hex F20/SE 
+SX earns 310M 
+SX pays out full dividend of 310M 
+Pep receives 248M for 8 10% shares 
+Hakko receives 31M for 1 10% shares 
+SX receives 31M for 1 10% shares 
+SX price goes from 90M(E7) to 92M(E6). 
+SX buys a 2-train from M1 for 1M. 
+
+ 
+BA (Dan) operates. 
+BA lays tile #69 at hex M7/NE 
+BA earns 60M 
+BA pays out full dividend of 60M 
+Peter receives 12M for 2 10% shares 
+Dan receives 24M for 4 10% shares 
+BA price goes from 78M(A4) to 84M(B4). 
+BA buys a 3+3-train from M5 for 1M. 
+
+ 
+WT (Dan) operates. 
+WT lays tile #2 at hex L8/W 
+WT lays a free token on L6 
+Private PfB is closed 
+WT earns 130M 
+WT pays out full dividend of 130M 
+Dan receives 78M for 6 10% shares 
+WT price goes from 78M(A4) to 84M(B4). 
+WT buys a 4-train from IPO for 360M. 
+First 4-train bought. 
+Start of phase 4. 
+All 2-trains have rusted and have been removed. 
+ ++++++++++++++++++++++++ Starting PR formation round ++++++++++++++++++++++++ 
+Starting player is Hakko 
+PR starts at 154M (154M) 
+PR floats and receives 616M 
+Hakko merges minor M2 into PR, with 265M cash and 1 train(s) 
+Hakko gets a 10% share of PR from IPO in exchange for M2 
+PR exchanges the M2 base token on E19/1 
+Peter merges minor HB into PR, with no cash and no train(s) 
+Peter gets a 10% share of PR from IPO in exchange for HB 
+Private HB is closed 
+Dan merges minor M5 into PR, with 1M cash and 0 train(s) 
+Dan gets a 5% share of PR from IPO in exchange for M5 
+ 
+End of PR formation round, resuming OperatingRound 6.2 
+
+ 
+End of Operating Round 6.2 
+Net worth gain/loss of Pep in OR 6.2 is 394M 
+Net worth gain/loss of Peter in OR 6.2 is 448M 
+Net worth gain/loss of Dan in OR 6.2 is 139M 
+Net worth gain/loss of Hakko in OR 6.2 is 277M 
+M1 has 121M 
+M3 has 200M 
+M4 has 0M 
+M6 has 130M 
+BY has 419M 
+SX has 594M 
+BA has 0M 
+WT has 32M 
+PR has 882M 
+Pep has 806M 
+Peter has 730M 
+Dan has 314M 
+Hakko has 230M 
+ ++++++++++++++++++++++++ Starting PR formation round ++++++++++++++++++++++++ 
+
+ 
+End of PR formation round 
+ ================== Start of Stock Round 7 ================== 
+Hakko has the Priority Deal 
+Hakko buys a 10% share of BY from Pool for 126M. 
+Pep buys a 10% share of SX from Pool for 92M. 
+Peter starts HE at 84M and pays 168M for 2 shares (20%) to BANK 
+Dan buys a 10% share of BA from IPO for 84M. 
+The price (84M) is paid to BA 
+Hakko buys a 10% share of WT from IPO for 84M. 
+The price (84M) is paid to WT 
+Pep passes. 
+Peter buys a 10% share of BA from IPO for 84M. 
+The price (84M) is paid to BA 
+Dan buys a 20% share of BA from IPO for 168M. 
+The price (168M) is paid to BA 
+Hakko autopasses 
+Pep passes. 
+Peter buys a 10% share of BY from Pep for 189M. 
+Dan sells a 5% certificate of PR to Pool for 77M. 
+PR price goes from 154M(I4) to 140M(I5). 
+Dan sells a 10% certificate of PR to Pool for 154M. 
+Dan buys a 10% share of WT from IPO for 84M. 
+The price (84M) is paid to WT 
+Hakko autopasses 
+Pep buys a 20% share of WT from IPO for 168M. 
+The price (168M) is paid to WT 
+Peter buys a 10% share of PR from Pool for 140M. 
+Dan buys a 10% share of WT from Hakko for 126M. 
+Hakko buys a 5% share of PR from Pool for 70M. 
+Pep buys a 10% share of HE from IPO for 84M. 
+Peter sells a 10% certificate of BA to Pool for 84M. 
+BA price goes from 84M(B4) to 80M(B5). 
+Peter buys a 10% share of HE from IPO for 84M. 
+Dan buys a 10% share of BA from Pool for 80M. 
+Hakko passes. 
+Pep buys a 10% share of HE from IPO for 84M. 
+HE floats and receives 420M 
+Peter sells a 10% certificate of BA to Pool for 80M. 
+BA price goes from 80M(B5) to 74M(B6). 
+Peter buys a 10% share of HE from IPO for 84M. 
+The price (84M) is paid to HE 
+Dan autopasses 
+Hakko buys a 10% share of BA from Pool for 74M. 
+Pep buys a 10% share of HE from IPO for 84M. 
+The price (84M) is paid to HE 
+Peter sells a 10% certificate of BA to Pool for 74M. 
+BA price goes from 74M(B6) to 66M(B7). 
+Peter buys a 10% share of HE from IPO for 84M. 
+The price (84M) is paid to HE 
+Dan autopasses 
+Hakko passes. 
+Pep buys a 20% share of HE from IPO for 168M. 
+The price (168M) is paid to HE 
+All "MS" shares are now available for purchase 
+Peter passes. 
+Dan autopasses 
+Hakko passes. 
+Pep starts MS at 80M and pays 160M for 2 shares (20%) to BANK 
+Peter passes. 
+Dan autopasses 
+Hakko passes. 
+Pep passes. 
+ 
+All players have passed, end of SR 7 
+PR price goes from 140M(I5) to 154M(I4). 
+PR is sold out, price rises from 140M(I5) to 154M(I4) 
+BY price goes from 126M(H5) to 138M(H4). 
+BY is sold out, price rises from 126M(H5) to 138M(H4) 
+SX price goes from 92M(E6) to 96M(E5). 
+SX is sold out, price rises from 92M(E6) to 96M(E5) 
+WT price goes from 84M(B4) to 86M(B3). 
+WT is sold out, price rises from 84M(B4) to 86M(B3) 
+HE price goes from 84M(B4) to 86M(B3). 
+HE is sold out, price rises from 84M(B4) to 86M(B3) 
+M1 has 121M 
+M3 has 200M 
+M4 has 0M 
+M6 has 130M 
+BY has 419M 
+SX has 594M 
+BA has 336M 
+WT has 368M 
+HE has 840M 
+PR has 882M 
+Pep has 155M 
+Peter has 135M 
+Dan has 3M 
+Hakko has 2M 
+ ++++++++++++++++++++++++ Starting PR formation round ++++++++++++++++++++++++ 
+
+ 
+End of PR formation round 
+ ======================= Start of Operating Round 7.1 ======================= 
+Peter receives 5M for NF. 
+Dan receives 10M for OBB. 
+Dan receives 25M for BB. 
+ 
+M1 (Pep) operates. 
+M1 lays tile #23 at hex F8/W 
+M1 does not pay a dividend 
+M1 buys a 2+2-train from SX for 121M. 
+
+ 
+M3 (Peter) operates. 
+M3 does not pay a dividend 
+M3 buys a 2+2-train from M6 for 200M. 
+
+ 
+M4 (Pep) operates. 
+M4 lays tile #27 at hex G17/SW 
+M4 earns 90M 
+M4 splits dividend of 90M 
+M4 receives 45M from the split of the revenue. 
+Pep receives 45M for 1 100% shares 
+
+ 
+M6 (Peter) operates. 
+M6 lays tile #26 at hex F18/E 
+M6 does not pay a dividend 
+M6 buys a 3-train from BY for 330M. 
+
+ 
+PR (Hakko) operates. 
+PR lays tile #204 at hex I17/W 
+PR earns 100M 
+PR pays out full dividend of 100M 
+Peter receives 20M for 4 5% shares 
+Hakko receives 45M for 9 5% shares 
+PR price goes from 154M(I4) to 172M(J4). 
+PR buys a 4-train from IPO for 360M. 
+PR buys a 4-train from IPO for 360M. 
+All 4-trains are sold out, 4+4-trains now available 
+
+ 
+BY (Peter) operates. 
+BY lays tile #7 at hex O11/NW 
+BY earns 100M 
+BY pays out full dividend of 100M 
+Peter receives 80M for 8 10% shares 
+Hakko receives 20M for 2 10% shares 
+BY price goes from 138M(H4) to 154M(I4). 
+BY buys a 4+4-train from IPO for 440M. 
+All 4+4-trains are sold out, 5-trains now available 
+First 4+4-train bought. 
+Start of phase 4+4. 
+All 2+2-trains have rusted and have been removed. 
+
+ 
+SX (Pep) operates. 
+SX lays tile #8 at hex E9/NE 
+SX earns 220M 
+SX pays out full dividend of 220M 
+Pep receives 198M for 9 10% shares 
+Hakko receives 22M for 1 10% shares 
+SX price goes from 96M(E5) to 104M(F5). 
+
+ 
+WT (Dan) operates. 
+WT lays tile #6 at hex O5/SW 
+WT earns 210M 
+WT pays out full dividend of 210M 
+Pep receives 42M for 2 10% shares 
+Dan receives 168M for 8 10% shares 
+WT price goes from 86M(B3) to 92M(C3). 
+WT buys a 3+3-train from BA for 368M. 
+
+ 
+HE (Peter) operates. 
+HE lays a free token on L14 
+Private NF is closed 
+HE lays tile #9 at hex K15/SW for 70M 
+HE does not pay a dividend 
+HE price goes from 86M(B3) to 82M(A3). 
+HE buys a 5-train from IPO for 500M. 
+First 5-train bought. 
+Start of phase 5. 
+All privates close 
+Private OBB is closed 
+WT discards a 3+3-train to Pool 
+ ++++++++++++++++++++++++ Starting PR formation round ++++++++++++++++++++++++ 
+Dan merges minor BB into PR, with no cash and no train(s) 
+Dan gets a 10% share of PR from IPO in exchange for BB 
+Private BB is closed 
+Pep merges minor M1 into PR, with 0M cash and 0 train(s) 
+Pep gets a 5% share of PR from IPO in exchange for M1 
+PR exchanges the M1 base token on H2/1 
+Peter merges minor M3 into PR, with 0M cash and 0 train(s) 
+Peter gets a 5% share of PR from IPO in exchange for M3 
+PR exchanges the M3 base token on F14/1 
+Pep merges minor M4 into PR, with 45M cash and 0 train(s) 
+Pep gets a 10% share of PR from IPO in exchange for M4 
+PR exchanges the M4 base token on G5/1 
+Peter merges minor M6 into PR, with 0M cash and 1 train(s) 
+Peter gets a 5% share of PR from IPO in exchange for M6 
+PR exchanges the M6 base token on C11/1 
+ 
+End of PR formation round, resuming OperatingRound 7.1 
+
+ 
+BA (Dan) operates. 
+BA lays tile #217 at hex L6/W 
+BA earns 80M 
+BA pays out full dividend of 80M 
+Dan receives 64M for 8 10% shares 
+Hakko receives 8M for 1 10% shares 
+BA receives 8M for 1 10% shares 
+BA price goes from 66M(B7) to 76M(C7). 
+BA buys a 5-train from IPO for 500M. 
+All 5-trains are sold out, 5+5-trains now available 
+
+ 
+End of Operating Round 7.1 
+Net worth gain/loss of Pep in OR 7.1 is 607M 
+Net worth gain/loss of Peter in OR 7.1 is 321M 
+Net worth gain/loss of Dan in OR 7.1 is 317M 
+Net worth gain/loss of Hakko in OR 7.1 is 226M 
+BY has 309M 
+SX has 715M 
+BA has 212M 
+WT has 0M 
+HE has 270M 
+PR has 207M 
+Pep has 440M 
+Peter has 240M 
+Dan has 270M 
+Hakko has 97M 
+ ======================= Start of Operating Round 7.2 ======================= 
+ 
+PR (Hakko) operates. 
+PR lays tile #216 at hex H20/E 
+PR lays a token on H20 for 60M 
+PR earns 420M 
+PR pays out full dividend of 420M 
+Peter receives 126M for 6 5% shares 
+Pep receives 63M for 3 5% shares 
+Dan receives 42M for 2 5% shares 
+Hakko receives 189M for 9 5% shares 
+PR price goes from 172M(J4) to 192M(K4). 
+
+ 
+BY (Peter) operates. 
+BY lays tile #218 at hex L14/SW 
+BY lays a token on E19 for 200M 
+BY earns 310M 
+BY pays out full dividend of 310M 
+Peter receives 248M for 8 10% shares 
+Hakko receives 62M for 2 10% shares 
+BY price goes from 154M(I4) to 172M(J4). 
+
+ 
+SX (Pep) operates. 
+SX lays tile #220 at hex E19/SW 
+SX earns 290M 
+SX pays out full dividend of 290M 
+Pep receives 261M for 9 10% shares 
+Hakko receives 29M for 1 10% shares 
+SX price goes from 104M(F5) to 114M(G5). 
+
+ 
+WT (Dan) operates. 
+WT lays tile #206 at hex M9/NE 
+WT earns 170M 
+WT pays out full dividend of 170M 
+Pep receives 34M for 2 10% shares 
+Dan receives 136M for 8 10% shares 
+WT price goes from 92M(C3) to 100M(D3). 
+
+ 
+HE (Peter) operates. 
+HE lays tile #44 at hex F18/SW 
+HE earns 170M 
+HE pays out full dividend of 170M 
+Peter receives 85M for 5 10% shares 
+Pep receives 85M for 5 10% shares 
+HE price goes from 82M(A3) to 86M(B3). 
+
+ 
+BA (Dan) operates. 
+BA lays tile #7 at hex K7/SW for 50M 
+BA lays a token on H16 for 140M 
+BA earns 320M 
+BA pays out full dividend of 320M 
+Dan receives 256M for 8 10% shares 
+Hakko receives 32M for 1 10% shares 
+BA receives 32M for 1 10% shares 
+BA price goes from 76M(C7) to 84M(D7). 
+
+ 
+End of Operating Round 7.2 
+Net worth gain/loss of Pep in OR 7.2 is 599M 
+Net worth gain/loss of Peter in OR 7.2 is 683M 
+Net worth gain/loss of Dan in OR 7.2 is 582M 
+Net worth gain/loss of Hakko in OR 7.2 is 456M 
+BY has 109M 
+SX has 715M 
+BA has 54M 
+WT has 0M 
+HE has 270M 
+PR has 147M 
+Pep has 883M 
+Peter has 699M 
+Dan has 704M 
+Hakko has 409M 
+ ================== Start of Stock Round 8 ================== 
+Peter has the Priority Deal 
+Peter buys a 10% share of BY from Hakko for 258M. 
+Dan buys a 20% share of MS from IPO for 160M. 
+Hakko buys a 20% share of MS from IPO for 160M. 
+MS floats and receives 480M 
+All "OL" shares are now available for purchase 
+Pep sells 3 10% certificates (30%) of HE to Pool for 258M. 
+HE price goes from 86M(B3) to 84M(B4). 
+Pep starts OL at 80M and pays 160M for 2 shares (20%) to BANK 
+Peter sells a 5% certificate of PR to Pool for 96M. 
+Peter buys a 10% share of HE from Pool for 84M. 
+Dan buys a 20% share of OL from IPO for 160M. 
+Hakko buys a 20% share of OL from IPO for 160M. 
+OL floats and receives 480M 
+Pep buys a 10% share of MS from IPO for 80M. 
+The price (80M) is paid to MS 
+Peter sells a 5% certificate of PR to Pool for 96M. 
+Peter buys a 20% share of HE from Pep for 252M. 
+Dan buys a 10% share of BA from Pool for 84M. 
+Hakko buys a 10% share of OL from IPO for 80M. 
+The price (80M) is paid to OL 
+Hakko is now president of OL 
+Pep buys a 10% share of MS from IPO for 80M. 
+The price (80M) is paid to MS 
+Peter buys a 10% share of BY from Hakko for 258M. 
+Dan passes. 
+Hakko buys a 5% share of PR from Pool for 96M. 
+Pep buys a 10% share of MS from IPO for 80M. 
+The price (80M) is paid to MS 
+Peter autopasses 
+Dan passes. 
+Hakko buys a 10% share of OL from IPO for 80M. 
+The price (80M) is paid to OL 
+Pep sells a 10% certificate of SX to Pool for 114M. 
+SX price goes from 114M(G5) to 106M(G6). 
+Pep buys a 10% share of MS from IPO for 80M. 
+The price (80M) is paid to MS 
+Peter autopasses 
+Dan passes. 
+Hakko buys a 10% share of OL from IPO for 80M. 
+The price (80M) is paid to OL 
+Pep passes. 
+Peter autopasses 
+Dan passes. 
+Hakko buys a 10% share of OL from IPO for 80M. 
+The price (80M) is paid to OL 
+Pep passes. 
+Peter autopasses 
+Dan passes. 
+Hakko buys a 5% share of PR from Pool for 96M. 
+Pep passes. 
+Peter autopasses 
+Dan passes. 
+Hakko passes. 
+ 
+All players have passed, end of SR 8 
+PR price goes from 192M(K4) to 212M(K3). 
+PR is sold out, price rises from 192M(K4) to 212M(K3) 
+BY price goes from 172M(J4) to 190M(J3). 
+BY is sold out, price rises from 172M(J4) to 190M(J3) 
+WT price goes from 100M(D3) to 108M(D2). 
+WT is sold out, price rises from 100M(D3) to 108M(D2) 
+BA price goes from 84M(D7) to 88M(D6). 
+BA is sold out, price rises from 84M(D7) to 88M(D6) 
+MS price goes from 80M(B5) to 84M(B4). 
+MS is sold out, price rises from 80M(B5) to 84M(B4) 
+OL price goes from 80M(B5) to 84M(B4). 
+OL is sold out, price rises from 80M(B5) to 84M(B4) 
+BY has 109M 
+SX has 715M 
+BA has 54M 
+WT has 0M 
+HE has 270M 
+MS has 800M 
+OL has 800M 
+PR has 147M 
+Pep has 1027M 
+Peter has 39M 
+Dan has 300M 
+Hakko has 93M 
+ ======================= Start of Operating Round 8.1 ======================= 
+ 
+PR (Hakko) operates. 
+PR lays tile #9 at hex E7/NW 
+PR earns 450M 
+PR pays out full dividend of 450M 
+Pep receives 68M for 3 5% shares 
+Peter receives 90M for 4 5% shares 
+Dan receives 45M for 2 5% shares 
+Hakko receives 248M for 11 5% shares 
+PR price goes from 212M(K3) to 236M(L3). 
+
+ 
+BY (Peter) operates. 
+BY lays tile #46 at hex G17/NE 
+BY earns 340M 
+BY pays out full dividend of 340M 
+Peter receives 340M for 10 10% shares 
+BY price goes from 190M(J3) to 212M(K3). 
+
+ 
+WT (Dan) operates. 
+WT lays tile #55 at hex N10/SW 
+WT earns 250M 
+WT pays out full dividend of 250M 
+Pep receives 50M for 2 10% shares 
+Dan receives 200M for 8 10% shares 
+WT price goes from 108M(D2) to 120M(E2). 
+
+ 
+SX (Pep) operates. 
+SX lays tile #20 at hex H18/W 
+SX earns 300M 
+SX pays out full dividend of 300M 
+Pep receives 240M for 8 10% shares 
+Hakko receives 30M for 1 10% shares 
+SX receives 30M for 1 10% shares 
+SX price goes from 106M(G6) to 114M(G5). 
+
+ 
+BA (Dan) operates. 
+BA lays tile #218 at hex G3/W 
+BA earns 330M 
+BA pays out full dividend of 330M 
+Dan receives 297M for 9 10% shares 
+Hakko receives 33M for 1 10% shares 
+BA price goes from 88M(D6) to 92M(E6). 
+
+ 
+HE (Peter) operates. 
+HE lays tile #216 at hex O15/E 
+HE earns 190M 
+HE pays out full dividend of 190M 
+Peter receives 152M for 8 10% shares 
+HE receives 38M for 2 10% shares 
+HE price goes from 84M(B4) to 88M(C4). 
+
+ 
+MS (Pep) operates. 
+MS lays tile #40 at hex E17/SW 
+MS lays a token on C11 for 20M 
+MS does not pay a dividend 
+MS price goes from 84M(B4) to 78M(A4). 
+MS buys a 3+3-train from Pool for 270M. 
+MS buys a 3-train from SX for 509M. 
+
+ 
+OL (Hakko) operates. 
+OL lays tile #221 at hex C11/W for 50M 
+OL lays a token on F14 for 100M 
+OL does not pay a dividend 
+OL price goes from 84M(B4) to 78M(A4). 
+OL buys a 5+5-train from IPO for 600M. 
+All 5+5-trains are sold out, 6-trains now available 
+First 5+5-train bought. 
+OL buys a 4-train from PR for 1M. 
+
+ 
+End of Operating Round 8.1 
+Net worth gain/loss of Pep in OR 8.1 is 434M 
+Net worth gain/loss of Peter in OR 8.1 is 882M 
+Net worth gain/loss of Dan in OR 8.1 is 674M 
+Net worth gain/loss of Hakko in OR 8.1 is 407M 
+BY has 109M 
+SX has 1254M 
+BA has 54M 
+WT has 0M 
+HE has 308M 
+MS has 1M 
+OL has 49M 
+PR has 148M 
+Pep has 1385M 
+Peter has 621M 
+Dan has 842M 
+Hakko has 404M 
+ ======================= Start of Operating Round 8.2 ======================= 
+ 
+PR (Hakko) operates. 
+PR lays tile #41 at hex F8/W 
+PR lays a token on F12 for 80M 
+PR earns 360M 
+PR pays out full dividend of 360M 
+Peter receives 72M for 4 5% shares 
+Pep receives 54M for 3 5% shares 
+Dan receives 36M for 2 5% shares 
+Hakko receives 198M for 11 5% shares 
+PR price goes from 236M(L3) to 262M(M3). 
+
+ 
+BY (Peter) operates. 
+BY lays tile #42 at hex F16/W 
+BY earns 400M 
+BY pays out full dividend of 400M 
+Peter receives 400M for 10 10% shares 
+BY price goes from 212M(K3) to 236M(L3). 
+
+ 
+WT (Dan) operates. 
+WT lays tile #63 at hex M9/SW 
+WT earns 280M 
+WT pays out full dividend of 280M 
+Pep receives 56M for 2 10% shares 
+Dan receives 224M for 8 10% shares 
+WT price goes from 120M(E2) to 134M(F2). 
+
+ 
+SX (Pep) operates. 
+SX lays tile #47 at hex H18/W 
+SX earns 170M 
+SX pays out full dividend of 170M 
+Pep receives 136M for 8 10% shares 
+Hakko receives 17M for 1 10% shares 
+SX receives 17M for 1 10% shares 
+SX price goes from 114M(G5) to 126M(H5). 
+SX buys a 6-train from IPO for 600M. 
+First 6-train bought. 
+Start of phase 6. 
+All 3-trains have rusted and have been removed. 
+SX buys a 6-train from IPO for 600M. 
+All 6-trains are sold out, 6+6-trains now available 
+
+ 
+BA (Dan) operates. 
+BA lays tile #216 at hex H2/SW 
+BA earns 340M 
+BA pays out full dividend of 340M 
+Dan receives 306M for 9 10% shares 
+Hakko receives 34M for 1 10% shares 
+BA price goes from 92M(E6) to 98M(F6). 
+
+ 
+HE (Peter) operates. 
+HE lays tile #8 at hex J10/SE 
+HE earns 190M 
+HE pays out full dividend of 190M 
+Peter receives 152M for 8 10% shares 
+HE receives 38M for 2 10% shares 
+HE price goes from 88M(C4) to 94M(D4). 
+
+ 
+MS (Pep) operates. 
+MS lays tile #42 at hex F20/SE 
+MS earns 180M 
+MS pays out full dividend of 180M 
+Dan receives 36M for 2 10% shares 
+Pep receives 108M for 6 10% shares 
+Hakko receives 36M for 2 10% shares 
+MS price goes from 78M(A4) to 84M(B4). 
+
+ 
+OL (Hakko) operates. 
+OL lays tile #63 at hex F10/SW 
+OL earns 400M 
+OL pays out full dividend of 400M 
+Pep receives 80M for 2 10% shares 
+Dan receives 80M for 2 10% shares 
+Hakko receives 240M for 6 10% shares 
+OL price goes from 78M(A4) to 84M(B4). 
+
+ 
+End of Operating Round 8.2 
+Net worth gain/loss of Pep in OR 8.2 is 645M 
+Net worth gain/loss of Peter in OR 8.2 is 964M 
+Net worth gain/loss of Dan in OR 8.2 is 898M 
+Net worth gain/loss of Hakko in OR 8.2 is 734M 
+BY has 109M 
+SX has 71M 
+BA has 54M 
+WT has 0M 
+HE has 346M 
+MS has 1M 
+OL has 49M 
+PR has 68M 
+Pep has 1819M 
+Peter has 1245M 
+Dan has 1524M 
+Hakko has 929M 
+ ======================= Start of Operating Round 8.3 ======================= 
+ 
+PR (Hakko) operates. 
+PR lays tile #16 at hex D10/NE 
+PR earns 210M 
+PR pays out full dividend of 210M 
+Peter receives 42M for 4 5% shares 
+Pep receives 32M for 3 5% shares 
+Dan receives 21M for 2 5% shares 
+Hakko receives 116M for 11 5% shares 
+PR price goes from 262M(M3) to 290M(N3). 
+
+ 
+BY (Peter) operates. 
+BY lays tile #9 at hex L10/SW 
+BY earns 250M 
+BY pays out full dividend of 250M 
+Peter receives 250M for 10 10% shares 
+BY price goes from 236M(L3) to 262M(M3). 
+BY buys a 5-train from HE for 109M. 
+
+ 
+WT (Dan) operates. 
+WT lays tile #3 at hex K11/SE 
+WT earns 290M 
+WT pays out full dividend of 290M 
+Pep receives 58M for 2 10% shares 
+Dan receives 232M for 8 10% shares 
+WT price goes from 134M(F2) to 150M(G2). 
+
+ 
+SX (Pep) operates. 
+SX lays tile #7 at hex D12/W 
+SX earns 490M 
+SX pays out full dividend of 490M 
+Pep receives 392M for 8 10% shares 
+Hakko receives 49M for 1 10% shares 
+SX receives 49M for 1 10% shares 
+SX price goes from 126M(H5) to 140M(I5). 
+
+ 
+BA (Dan) operates. 
+BA lays tile #25 at hex E11/E 
+BA earns 360M 
+BA pays out full dividend of 360M 
+Dan receives 324M for 9 10% shares 
+Hakko receives 36M for 1 10% shares 
+BA price goes from 98M(F6) to 106M(G6). 
+
+ 
+HE (Peter) operates. 
+HE lays tile #88 at hex K11/W 
+HE does not pay a dividend 
+HE price goes from 94M(D4) to 88M(C4). 
+HE president Peter contributes 265M to buy a train 
+HE buys a 6+6-train from IPO for 720M. 
+First 6+6-train bought. 
+Start of phase 6+6. 
+All 3+3-trains have rusted and have been removed. 
+
+ 
+MS (Pep) operates. 
+MS lays tile #28 at hex K7/SE 
+MS does not pay a dividend 
+MS price goes from 84M(B4) to 78M(A4). 
+MS president Pep contributes 719M to buy a train 
+MS buys a 6+6-train from IPO for 720M. 
+
+ 
+OL (Hakko) operates. 
+OL lays tile #25 at hex E9/NE 
+OL earns 410M 
+OL pays out full dividend of 410M 
+Dan receives 82M for 2 10% shares 
+Pep receives 82M for 2 10% shares 
+Hakko receives 246M for 6 10% shares 
+OL price goes from 84M(B4) to 88M(C4). 
+
+ 
+End of Operating Round 8.3 
+Net worth gain/loss of Pep in OR 8.3 is 3M 
+Net worth gain/loss of Peter in OR 8.3 is 295M 
+Net worth gain/loss of Dan in OR 8.3 is 883M 
+Net worth gain/loss of Hakko in OR 8.3 is 635M 
+BY has 0M 
+SX has 120M 
+BA has 54M 
+WT has 0M 
+HE has 0M 
+MS has 0M 
+OL has 49M 
+PR has 68M 
+Pep has 1664M 
+Peter has 1272M 
+Dan has 2183M 
+Hakko has 1376M 
+ ================== Start of Stock Round 9 ================== 
+Pep has the Priority Deal 
+Pep sells a 5% certificate of PR to Pool for 145M. 
+Pep buys a 10% share of SX from Pool for 140M. 
+Peter autopasses 
+Dan passes. 
+Hakko passes. 
+Pep sells a 10% certificate of PR to Pool for 290M. 
+Pep buys a 20% share of MS from Hakko for 234M. 
+Peter autopasses 
+Dan passes. 
+Hakko buys a 10% share of PR from Pool for 290M. 
+Pep buys a 10% share of SX from Hakko for 210M. 
+Peter autopasses 
+Dan passes. 
+Hakko buys a 20% share of OL from Dan for 264M. 
+Pep passes. 
+Peter autopasses 
+Dan buys a 5% share of PR from Pool for 145M. 
+Hakko buys a 20% share of OL from Pep for 264M. 
+Pep buys a 20% share of MS from Dan for 234M. 
+Peter autopasses 
+Dan buys a 20% share of WT from Pep for 450M. 
+Hakko passes. 
+Pep buys a 10% share of HE from Pool for 88M. 
+Peter autopasses 
+Dan passes. 
+Hakko passes. 
+Pep passes. 
+ 
+All players have passed, end of SR 9 
+PR price goes from 290M(N3) to 318M(N2). 
+PR is sold out, price rises from 290M(N3) to 318M(N2) 
+BY price goes from 262M(M3) to 288M(M2). 
+BY is sold out, price rises from 262M(M3) to 288M(M2) 
+WT price goes from 150M(G2) to 166M(G1). 
+WT is sold out, price rises from 150M(G2) to 166M(G1) 
+SX price goes from 140M(I5) to 154M(I4). 
+SX is sold out, price rises from 140M(I5) to 154M(I4) 
+BA price goes from 106M(G6) to 114M(G5). 
+BA is sold out, price rises from 106M(G6) to 114M(G5) 
+OL price goes from 88M(C4) to 92M(C3). 
+OL is sold out, price rises from 88M(C4) to 92M(C3) 
+MS price goes from 78M(A4) to 82M(A3). 
+MS is sold out, price rises from 78M(A4) to 82M(A3) 
+BY has 0M 
+SX has 120M 
+BA has 54M 
+WT has 0M 
+HE has 0M 
+MS has 0M 
+OL has 49M 
+PR has 68M 
+Pep has 1907M 
+Peter has 1272M 
+Dan has 2086M 
+Hakko has 1002M 
+ ======================= Start of Operating Round 9.1 ======================= 
+ 
+PR (Hakko) operates. 
+PR lays tile #24 at hex E7/NW 
+PR earns 210M 
+PR pays out full dividend of 210M 
+Peter receives 42M for 4 5% shares 
+Dan receives 32M for 3 5% shares 
+Hakko receives 137M for 13 5% shares 
+PR price goes from 318M(N2) to 350M(O2). 
+
+ 
+BY (Peter) operates. 
+BY earns 450M 
+BY pays out full dividend of 450M 
+Peter receives 450M for 10 10% shares 
+BY price goes from 288M(M2) to 318M(N2). 
+
+ 
+WT (Dan) operates. 
+WT lays tile #46 at hex K7/NE 
+WT earns 130M 
+WT pays out full dividend of 130M 
+Dan receives 130M for 10 10% shares 
+WT price goes from 166M(G1) to 186M(H1). 
+
+ 
+SX (Pep) operates. 
+SX lays tile #8 at hex G9/W 
+SX earns 500M 
+SX pays out full dividend of 500M 
+Pep receives 500M for 10 10% shares 
+SX price goes from 154M(I4) to 172M(J4). 
+
+ 
+BA (Dan) operates. 
+BA lays tile #23 at hex K15/SW 
+BA earns 200M 
+BA pays out full dividend of 200M 
+Dan receives 180M for 9 10% shares 
+Hakko receives 20M for 1 10% shares 
+BA price goes from 114M(G5) to 126M(H5). 
+
+ 
+OL (Hakko) operates. 
+OL earns 410M 
+OL pays out full dividend of 410M 
+Hakko receives 410M for 10 10% shares 
+OL price goes from 92M(C3) to 100M(D3). 
+
+ 
+HE (Peter) operates. 
+HE earns 320M 
+HE pays out full dividend of 320M 
+Peter receives 256M for 8 10% shares 
+Pep receives 32M for 1 10% shares 
+HE receives 32M for 1 10% shares 
+HE price goes from 88M(C4) to 94M(D4). 
+
+ 
+MS (Pep) operates. 
+MS lays tile #28 at hex D12/SW 
+MS earns 310M 
+MS pays out full dividend of 310M 
+Pep receives 310M for 10 10% shares 
+MS price goes from 82M(A3) to 86M(B3). 
+
+ 
+End of Operating Round 9.1 
+Net worth gain/loss of Pep in OR 9.1 is 1068M 
+Net worth gain/loss of Peter in OR 9.1 is 1160M 
+Net worth gain/loss of Dan in OR 9.1 is 698M 
+Net worth gain/loss of Hakko in OR 9.1 is 867M 
+BY has 0M 
+SX has 120M 
+BA has 54M 
+WT has 0M 
+HE has 32M 
+MS has 0M 
+OL has 49M 
+PR has 68M 
+Pep has 2749M 
+Peter has 2020M 
+Dan has 2428M 
+Hakko has 1569M 
+ ======================= Start of Operating Round 9.2 ======================= 
+ 
+PR (Hakko) operates. 
+PR earns 210M 
+PR pays out full dividend of 210M 
+Peter receives 42M for 4 5% shares 
+Dan receives 32M for 3 5% shares 
+Hakko receives 137M for 13 5% shares 
+PR price goes from 350M(O2) to 384M(P2). 
+
+ 
+BY (Peter) operates. 
+BY earns 450M 
+BY pays out full dividend of 450M 
+Peter receives 450M for 10 10% shares 
+BY price goes from 318M(N2) to 350M(O2). 
+
+ 
+WT (Dan) operates. 
+WT lays tile #8 at hex M11/W 
+WT earns 130M 
+WT pays out full dividend of 130M 
+Dan receives 130M for 10 10% shares 
+WT price goes from 186M(H1) to 208M(I1). 
+
+ 
+SX (Pep) operates. 
+SX lays tile #45 at hex E11/SW 
+SX earns 500M 
+SX pays out full dividend of 500M 
+Pep receives 500M for 10 10% shares 
+SX price goes from 172M(J4) to 192M(K4). 
+
+ 
+BA (Dan) operates. 
+BA lays tile #9 at hex L12/SW 
+BA earns 200M 
+BA pays out full dividend of 200M 
+Dan receives 180M for 9 10% shares 
+Hakko receives 20M for 1 10% shares 
+BA price goes from 126M(H5) to 140M(I5). 
+
+ 
+OL (Hakko) operates. 
+OL earns 410M 
+OL pays out full dividend of 410M 
+Hakko receives 410M for 10 10% shares 
+OL price goes from 100M(D3) to 110M(E3). 
+
+ 
+HE (Peter) operates. 
+HE earns 320M 
+HE pays out full dividend of 320M 
+Peter receives 256M for 8 10% shares 
+Pep receives 32M for 1 10% shares 
+HE receives 32M for 1 10% shares 
+HE price goes from 94M(D4) to 102M(E4). 
+
+ 
+MS (Pep) operates. 
+MS lays tile #9 at hex G7/W 
+MS earns 310M 
+MS pays out full dividend of 310M 
+Pep receives 310M for 10 10% shares 
+MS price goes from 86M(B3) to 92M(C3). 
+
+ 
+End of Operating Round 9.2 
+Net worth gain/loss of Pep in OR 9.2 is 1110M 
+Net worth gain/loss of Peter in OR 9.2 is 1200M 
+Net worth gain/loss of Dan in OR 9.2 is 739M 
+Net worth gain/loss of Hakko in OR 9.2 is 902M 
+BY has 0M 
+SX has 120M 
+BA has 54M 
+WT has 0M 
+HE has 64M 
+MS has 0M 
+OL has 49M 
+PR has 68M 
+Pep has 3591M 
+Peter has 2768M 
+Dan has 2770M 
+Hakko has 2136M 
+ ======================= Start of Operating Round 9.3 ======================= 
+ 
+PR (Hakko) operates. 
+PR earns 210M 
+PR pays out full dividend of 210M 
+Peter receives 42M for 4 5% shares 
+Dan receives 32M for 3 5% shares 
+Hakko receives 137M for 13 5% shares 
+PR price goes from 384M(P2) to 418M(P1). 
+
+ 
+BY (Peter) operates. 
+BY earns 450M 
+BY pays out full dividend of 450M 
+Bank is broken 
+Peter receives 450M for 10 10% shares 
+BY price goes from 350M(O2) to 384M(P2). 
+
+ 
+WT (Dan) operates. 
+WT lays tile #8 at hex K13/E 
+WT earns 140M 
+WT pays out full dividend of 140M 
+Dan receives 140M for 10 10% shares 
+WT price goes from 208M(I1) to 232M(J1). 
+
+ 
+SX (Pep) operates. 
+SX earns 500M 
+SX pays out full dividend of 500M 
+Pep receives 500M for 10 10% shares 
+SX price goes from 192M(K4) to 214M(L4). 
+
+ 
+BA (Dan) operates. 
+BA earns 200M 
+BA pays out full dividend of 200M 
+Dan receives 180M for 9 10% shares 
+Hakko receives 20M for 1 10% shares 
+BA price goes from 140M(I5) to 154M(I4). 
+
+ 
+OL (Hakko) operates. 
+OL earns 430M 
+OL pays out full dividend of 430M 
+Hakko receives 430M for 10 10% shares 
+OL price goes from 110M(E3) to 122M(F3). 
+
+ 
+HE (Peter) operates. 
+HE earns 320M 
+HE pays out full dividend of 320M 
+Peter receives 256M for 8 10% shares 
+Pep receives 32M for 1 10% shares 
+HE receives 32M for 1 10% shares 
+HE price goes from 102M(E4) to 112M(F4). 
+
+ 
+MS (Pep) operates. 
+MS earns 310M 
+MS pays out full dividend of 310M 
+Pep receives 310M for 10 10% shares 
+MS price goes from 92M(C3) to 100M(D3). 
+(**)  
+End of Operating Round 9.3 
+Net worth gain/loss of Pep in OR 9.3 is 1152M 
+Net worth gain/loss of Peter in OR 9.3 is 1236M 
+Net worth gain/loss of Dan in OR 9.3 is 769M 
+Net worth gain/loss of Hakko in OR 9.3 is 942M 
+BY has 0M 
+SX has 120M 
+BA has 54M 
+WT has 0M 
+HE has 96M 
+MS has 0M 
+OL has 49M 
+PR has 68M 
+Pep has 4433M 
+Peter has 3516M 
+Dan has 3122M 
+Hakko has 2723M 
+The game is over. 
+The winner is Peter! 
+Final ranking : 
+1. 9088M Peter 
+2. 7685M Pep 
+3. 7455M Dan 
+4. 6814M Hakko

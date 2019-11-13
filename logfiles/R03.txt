@@ -1,0 +1,2090 @@
+Game is 1835. 
+Player 1 is Peter. 
+Player 2 is Ron. 
+Player 3 is Pep. 
+Player 4 is Dan. 
+Each player receives 475M from the Bank. 
+The Bank has 10100M. 
+Start of phase 2. 
+Bank size is 10100M 
+ ================ Start of initial round ================ 
+Dan has the Priority Deal 
+Dan buys M2 for 170M 
+M2 floats and receives 170M 
+Pep buys M4 for 160M 
+M4 floats and receives 160M 
+Ron buys M6 for 80M 
+M6 floats and receives 80M 
+Peter buys M3 for 80M 
+M3 floats and receives 80M 
+Peter buys M5 for 80M 
+M5 floats and receives 80M 
+Ron buys M1 for 80M 
+M1 floats and receives 80M 
+Pep buys BB for 130M 
+Dan buys HB for 160M 
+Peter buys NF for 100M 
+Peter also gets BY 10% share 
+Ron buys BY 20% president share for 184M 
+Pep buys PfB for 150M 
+Pep also gets BY 10% share 
+Dan buys OBB for 120M 
+Dan also gets BY 10% share 
+BY floats and receives 460M 
+Peter buys LD for 190M 
+Peter also gets SX 20% president share 
+M1 has 80M 
+M2 has 170M 
+M3 has 80M 
+M4 has 160M 
+M5 has 80M 
+M6 has 80M 
+BY has 460M 
+Peter has 25M 
+Ron has 131M 
+Pep has 35M 
+Dan has 25M 
+ ================== Start of Stock Round 1 ================== 
+Ron has the Priority Deal 
+Ron buys a 10% share of BY from IPO for 92M. 
+The price (92M) is paid to BY 
+Pep passes. 
+Dan passes. 
+Peter passes. 
+Ron passes. 
+ 
+All players have passed, end of SR 1 
+M1 has 80M 
+M2 has 170M 
+M3 has 80M 
+M4 has 160M 
+M5 has 80M 
+M6 has 80M 
+BY has 552M 
+Peter has 25M 
+Ron has 39M 
+Pep has 35M 
+Dan has 25M 
+ ======================= Start of Operating Round 1.1 ======================= 
+Peter receives 5M for NF. 
+Dan receives 10M for OBB. 
+Pep receives 15M for PfB. 
+Peter receives 20M for LD. 
+Pep receives 25M for BB. 
+Dan receives 30M for HB. 
+ 
+M1 (Ron) operates. 
+M1 lays tile #202 at hex H2/W 
+M1 does not pay a dividend 
+M1 buys a 2-train from IPO for 80M. 
+First 2-train bought. 
+
+ 
+M2 (Dan) operates. 
+M2 lays tile #8 at hex E17/NW 
+M2 does not pay a dividend 
+
+ 
+M3 (Peter) operates. 
+M3 lays tile #57 at hex F14/W 
+M3 does not pay a dividend 
+M3 buys a 2-train from IPO for 80M. 
+
+ 
+M4 (Pep) operates. 
+M4 lays tile #57 at hex G5/SW 
+M4 does not pay a dividend 
+M4 buys a 2-train from IPO for 80M. 
+
+ 
+M5 (Peter) operates. 
+M5 lays tile #8 at hex D18/NE 
+M5 does not pay a dividend 
+M5 buys a 2-train from IPO for 80M. 
+
+ 
+M6 (Ron) operates. 
+M6 lays tile #9 at hex B10/NW 
+M6 does not pay a dividend 
+M6 buys a 2-train from IPO for 80M. 
+
+ 
+BY (Ron) operates. 
+BY lays tile #202 at hex O15/NE 
+BY lays tile #8 at hex N14/NE 
+BY does not pay a dividend 
+BY price goes from 92M(C3) to 86M(B3). 
+BY buys a 2-train from IPO for 80M. 
+BY buys a 2-train from IPO for 80M. 
+
+ 
+End of Operating Round 1.1 
+Net worth gain/loss of Peter in OR 1.1 is 19M 
+Net worth gain/loss of Ron in OR 1.1 is -18M 
+Net worth gain/loss of Pep in OR 1.1 is 34M 
+Net worth gain/loss of Dan in OR 1.1 is 34M 
+M1 has 0M 
+M2 has 170M 
+M3 has 0M 
+M4 has 80M 
+M5 has 0M 
+M6 has 0M 
+BY has 392M 
+Peter has 50M 
+Ron has 39M 
+Pep has 75M 
+Dan has 65M 
+ ================== Start of Stock Round 2 ================== 
+Pep has the Priority Deal 
+Pep passes. 
+Dan passes. 
+Peter passes. 
+Ron passes. 
+ 
+All players have passed, end of SR 2 
+M1 has 0M 
+M2 has 170M 
+M3 has 0M 
+M4 has 80M 
+M5 has 0M 
+M6 has 0M 
+BY has 392M 
+Peter has 50M 
+Ron has 39M 
+Pep has 75M 
+Dan has 65M 
+ ======================= Start of Operating Round 2.1 ======================= 
+Peter receives 5M for NF. 
+Dan receives 10M for OBB. 
+Pep receives 15M for PfB. 
+Peter receives 20M for LD. 
+Pep receives 25M for BB. 
+Dan receives 30M for HB. 
+ 
+M1 (Ron) operates. 
+M1 lays tile #1 at hex H4/SW 
+M1 earns 40M 
+M1 splits dividend of 40M 
+M1 receives 20M from the split of the revenue. 
+Ron receives 20M for 1 100% shares 
+
+ 
+M2 (Dan) operates. 
+M2 lays tile #8 at hex D16/SE 
+M2 does not pay a dividend 
+M2 buys a 2-train from IPO for 80M. 
+
+ 
+M3 (Peter) operates. 
+M3 lays tile #8 at hex F16/SE 
+M3 earns 40M 
+M3 splits dividend of 40M 
+M3 receives 20M from the split of the revenue. 
+Peter receives 20M for 1 100% shares 
+
+ 
+M4 (Pep) operates. 
+M4 lays tile #4 at hex F6/SW 
+M4 earns 30M 
+M4 splits dividend of 30M 
+M4 receives 15M from the split of the revenue. 
+Pep receives 15M for 1 100% shares 
+
+ 
+M5 (Peter) operates. 
+M5 lays tile #8 at hex C19/E 
+M5 earns 50M 
+M5 splits dividend of 50M 
+M5 receives 25M from the split of the revenue. 
+Peter receives 25M for 1 100% shares 
+
+ 
+M6 (Ron) operates. 
+M6 lays tile #6 at hex A11/NW 
+M6 earns 60M 
+M6 splits dividend of 60M 
+M6 receives 30M from the split of the revenue. 
+Ron receives 30M for 1 100% shares 
+
+ 
+BY (Ron) operates. 
+BY lays tile #58 at hex M15/SW for 50M 
+BY lays tile #9 at hex O13/NW 
+BY lays a token on L14 for 60M 
+BY earns 80M 
+BY pays out full dividend of 80M 
+Peter receives 8M for 1 10% shares 
+Pep receives 8M for 1 10% shares 
+Dan receives 8M for 1 10% shares 
+Ron receives 24M for 3 10% shares 
+BY price goes from 86M(B3) to 92M(C3). 
+
+ 
+End of Operating Round 2.1 
+Net worth gain/loss of Peter in OR 2.1 is 84M 
+Net worth gain/loss of Ron in OR 2.1 is 92M 
+Net worth gain/loss of Pep in OR 2.1 is 69M 
+Net worth gain/loss of Dan in OR 2.1 is 54M 
+M1 has 20M 
+M2 has 90M 
+M3 has 20M 
+M4 has 95M 
+M5 has 25M 
+M6 has 30M 
+BY has 282M 
+Peter has 128M 
+Ron has 113M 
+Pep has 138M 
+Dan has 113M 
+ ================== Start of Stock Round 3 ================== 
+Pep has the Priority Deal 
+Pep buys a 10% share of BY from IPO for 92M. 
+The price (92M) is paid to BY 
+Dan buys a 10% share of BY from IPO for 92M. 
+The price (92M) is paid to BY 
+Peter buys a 10% share of BY from IPO for 92M. 
+The price (92M) is paid to BY 
+Ron buys a 10% share of BY from IPO for 92M. 
+The price (92M) is paid to BY 
+Pep autopasses 
+Dan autopasses 
+Peter passes. 
+Ron passes. 
+ 
+All players have passed, end of SR 3 
+BY price goes from 92M(C3) to 98M(C2). 
+BY is sold out, price rises from 92M(C3) to 98M(C2) 
+M1 has 20M 
+M2 has 90M 
+M3 has 20M 
+M4 has 95M 
+M5 has 25M 
+M6 has 30M 
+BY has 650M 
+Peter has 36M 
+Ron has 21M 
+Pep has 46M 
+Dan has 21M 
+ ======================= Start of Operating Round 3.1 ======================= 
+Peter receives 5M for NF. 
+Dan receives 10M for OBB. 
+Pep receives 15M for PfB. 
+Peter receives 20M for LD. 
+Pep receives 25M for BB. 
+Dan receives 30M for HB. 
+ 
+M1 (Ron) operates. 
+M1 lays tile #9 at hex J2/NW 
+M1 earns 40M 
+M1 splits dividend of 40M 
+M1 receives 20M from the split of the revenue. 
+Ron receives 20M for 1 100% shares 
+
+ 
+M2 (Dan) operates. 
+M2 lays tile #8 at hex D14/NW for 50M 
+M2 earns 70M 
+M2 splits dividend of 70M 
+M2 receives 35M from the split of the revenue. 
+Dan receives 35M for 1 100% shares 
+
+ 
+M3 (Peter) operates. 
+M3 lays tile #8 at hex G17/SW 
+M3 earns 40M 
+M3 splits dividend of 40M 
+M3 receives 20M from the split of the revenue. 
+Peter receives 20M for 1 100% shares 
+
+ 
+M4 (Pep) operates. 
+M4 lays tile #8 at hex E7/SW 
+M4 earns 30M 
+M4 splits dividend of 30M 
+M4 receives 15M from the split of the revenue. 
+Pep receives 15M for 1 100% shares 
+
+ 
+M5 (Peter) operates. 
+M5 earns 50M 
+M5 splits dividend of 50M 
+M5 receives 25M from the split of the revenue. 
+Peter receives 25M for 1 100% shares 
+
+ 
+M6 (Ron) operates. 
+M6 lays tile #58 at hex B12/NW 
+M6 earns 60M 
+M6 splits dividend of 60M 
+M6 receives 30M from the split of the revenue. 
+Ron receives 30M for 1 100% shares 
+
+ 
+BY (Ron) operates. 
+BY lays tile #6 at hex N12/NW 
+BY lays tile #69 at hex N10/NE 
+BY earns 90M 
+BY pays out full dividend of 90M 
+Peter receives 18M for 2 10% shares 
+Pep receives 18M for 2 10% shares 
+Dan receives 18M for 2 10% shares 
+Ron receives 36M for 4 10% shares 
+BY price goes from 98M(C2) to 108M(D2). 
+
+ 
+End of Operating Round 3.1 
+Net worth gain/loss of Peter in OR 3.1 is 108M 
+Net worth gain/loss of Ron in OR 3.1 is 126M 
+Net worth gain/loss of Pep in OR 3.1 is 93M 
+Net worth gain/loss of Dan in OR 3.1 is 113M 
+M1 has 40M 
+M2 has 75M 
+M3 has 40M 
+M4 has 110M 
+M5 has 50M 
+M6 has 60M 
+BY has 650M 
+Peter has 124M 
+Ron has 107M 
+Pep has 119M 
+Dan has 114M 
+ ================== Start of Stock Round 4 ================== 
+Pep has the Priority Deal 
+Pep buys a 10% share of SX from IPO for 88M. 
+Dan sells 2 10% certificates (20%) of BY to Pool for 216M. 
+BY price goes from 108M(D2) to 100M(D3). 
+Dan buys a 10% share of SX from IPO for 88M. 
+Peter buys a 10% share of SX from IPO for 88M. 
+SX floats and receives 440M 
+Ron buys a 10% share of BY from Pool for 100M. 
+Pep autopasses 
+Dan buys a 10% share of SX from IPO for 88M. 
+The price (88M) is paid to SX 
+Peter autopasses 
+Ron autopasses 
+Pep autopasses 
+Dan buys a 10% share of SX from IPO for 88M. 
+The price (88M) is paid to SX 
+Peter autopasses 
+Ron autopasses 
+Pep autopasses 
+Dan passes. 
+ 
+All players have passed, end of SR 4 
+M1 has 40M 
+M2 has 75M 
+M3 has 40M 
+M4 has 110M 
+M5 has 50M 
+M6 has 60M 
+BY has 650M 
+SX has 616M 
+Peter has 36M 
+Ron has 7M 
+Pep has 31M 
+Dan has 66M 
+ ======================= Start of Operating Round 4.1 ======================= 
+Peter receives 5M for NF. 
+Dan receives 10M for OBB. 
+Pep receives 15M for PfB. 
+Peter receives 20M for LD. 
+Pep receives 25M for BB. 
+Dan receives 30M for HB. 
+ 
+M1 (Ron) operates. 
+M1 lays tile #4 at hex K3/NW 
+M1 earns 40M 
+M1 splits dividend of 40M 
+M1 receives 20M from the split of the revenue. 
+Ron receives 20M for 1 100% shares 
+
+ 
+M2 (Dan) operates. 
+M2 earns 70M 
+M2 splits dividend of 70M 
+M2 receives 35M from the split of the revenue. 
+Dan receives 35M for 1 100% shares 
+
+ 
+M3 (Peter) operates. 
+M3 lays tile #5 at hex H16/SE 
+M3 earns 40M 
+M3 splits dividend of 40M 
+M3 receives 20M from the split of the revenue. 
+Peter receives 20M for 1 100% shares 
+
+ 
+M4 (Pep) operates. 
+M4 lays tile #8 at hex E5/SW 
+M4 earns 30M 
+M4 splits dividend of 30M 
+M4 receives 15M from the split of the revenue. 
+Pep receives 15M for 1 100% shares 
+
+ 
+M5 (Peter) operates. 
+M5 earns 50M 
+M5 splits dividend of 50M 
+M5 receives 25M from the split of the revenue. 
+Peter receives 25M for 1 100% shares 
+
+ 
+M6 (Ron) operates. 
+M6 lays tile #4 at hex B14/W 
+M6 earns 60M 
+M6 splits dividend of 60M 
+M6 receives 30M from the split of the revenue. 
+Ron receives 30M for 1 100% shares 
+
+ 
+BY (Ron) operates. 
+BY lays tile #6 at hex M9/NW 
+BY lays tile #69 at hex M7/SE 
+BY earns 90M 
+BY pays out full dividend of 90M 
+Peter receives 18M for 2 10% shares 
+Pep receives 18M for 2 10% shares 
+Ron receives 45M for 5 10% shares 
+BY receives 9M for 1 10% shares 
+BY price goes from 100M(D3) to 110M(E3). 
+
+ 
+SX (Peter) operates. 
+SX lays tile #9 at hex H18/W 
+SX lays tile #201 at hex H20/NW 
+SX does not pay a dividend 
+SX price goes from 88M(C4) to 84M(B4). 
+SX buys a 2-train from IPO for 80M. 
+Private LD is closed 
+All 2-trains are sold out, 2+2-trains now available 
+SX buys a 2+2-train from IPO for 120M. 
+First 2+2-train bought. 
+
+ 
+End of Operating Round 4.1 
+Net worth gain/loss of Peter in OR 4.1 is -94M 
+Net worth gain/loss of Ron in OR 4.1 is 145M 
+Net worth gain/loss of Pep in OR 4.1 is 89M 
+Net worth gain/loss of Dan in OR 4.1 is 63M 
+M1 has 60M 
+M2 has 110M 
+M3 has 60M 
+M4 has 125M 
+M5 has 75M 
+M6 has 90M 
+BY has 659M 
+SX has 416M 
+Peter has 124M 
+Ron has 102M 
+Pep has 104M 
+Dan has 141M 
+ ================== Start of Stock Round 5 ================== 
+Peter has the Priority Deal 
+Peter buys a 10% share of SX from IPO for 88M. 
+The price (88M) is paid to SX 
+Ron buys a 10% share of SX from IPO for 88M. 
+The price (88M) is paid to SX 
+Pep buys a 10% share of SX from IPO for 88M. 
+The price (88M) is paid to SX 
+All "BA" shares are now available for purchase 
+Dan buys a 10% share of BY from Pool for 110M. 
+Peter passes. 
+Ron passes. 
+Pep passes. 
+Dan autopasses 
+ 
+All players have passed, end of SR 5 
+BY price goes from 110M(E3) to 120M(E2). 
+BY is sold out, price rises from 110M(E3) to 120M(E2) 
+SX price goes from 84M(B4) to 86M(B3). 
+SX is sold out, price rises from 84M(B4) to 86M(B3) 
+M1 has 60M 
+M2 has 110M 
+M3 has 60M 
+M4 has 125M 
+M5 has 75M 
+M6 has 90M 
+BY has 659M 
+SX has 680M 
+Peter has 36M 
+Ron has 14M 
+Pep has 16M 
+Dan has 31M 
+ ======================= Start of Operating Round 5.1 ======================= 
+Peter receives 5M for NF. 
+Dan receives 10M for OBB. 
+Pep receives 15M for PfB. 
+Pep receives 25M for BB. 
+Dan receives 30M for HB. 
+ 
+M1 (Ron) operates. 
+M1 lays tile #8 at hex L4/NW 
+M1 earns 40M 
+M1 splits dividend of 40M 
+M1 receives 20M from the split of the revenue. 
+Ron receives 20M for 1 100% shares 
+
+ 
+M2 (Dan) operates. 
+M2 earns 70M 
+M2 splits dividend of 70M 
+M2 receives 35M from the split of the revenue. 
+Dan receives 35M for 1 100% shares 
+
+ 
+M3 (Peter) operates. 
+M3 lays tile #5 at hex F10/SE 
+M3 earns 40M 
+M3 splits dividend of 40M 
+M3 receives 20M from the split of the revenue. 
+Peter receives 20M for 1 100% shares 
+
+ 
+M4 (Pep) operates. 
+M4 lays tile #58 at hex F4/NE 
+M4 earns 30M 
+M4 splits dividend of 30M 
+M4 receives 15M from the split of the revenue. 
+Pep receives 15M for 1 100% shares 
+M4 buys a 2+2-train from IPO for 120M. 
+
+ 
+M5 (Peter) operates. 
+M5 earns 50M 
+M5 splits dividend of 50M 
+M5 receives 25M from the split of the revenue. 
+Peter receives 25M for 1 100% shares 
+
+ 
+M6 (Ron) operates. 
+M6 lays tile #58 at hex B16/SE 
+M6 earns 60M 
+M6 splits dividend of 60M 
+M6 receives 30M from the split of the revenue. 
+Ron receives 30M for 1 100% shares 
+M6 buys a 2+2-train from IPO for 120M. 
+
+ 
+BY (Ron) operates. 
+BY lays tile #5 at hex O5/SE 
+BY lays tile #9 at hex M13/SW for 50M 
+BY earns 90M 
+BY pays out full dividend of 90M 
+Peter receives 18M for 2 10% shares 
+Dan receives 9M for 1 10% shares 
+Pep receives 18M for 2 10% shares 
+Ron receives 45M for 5 10% shares 
+BY price goes from 120M(E2) to 134M(F2). 
+BY buys a 2+2-train from IPO for 120M. 
+All 2+2-trains are sold out, 3-trains now available 
+
+ 
+SX (Peter) operates. 
+SX lays tile #9 at hex G19/NW 
+SX lays tile #8 at hex F18/NE 
+SX earns 90M 
+SX pays out full dividend of 90M 
+Ron receives 9M for 1 10% shares 
+Peter receives 36M for 4 10% shares 
+Pep receives 18M for 2 10% shares 
+Dan receives 27M for 3 10% shares 
+SX price goes from 86M(B3) to 92M(C3). 
+SX buys a 3-train from IPO for 180M. 
+First 3-train bought. 
+Start of phase 3. 
+SX buys a 3-train from IPO for 180M. 
+
+ 
+End of Operating Round 5.1 
+Net worth gain/loss of Peter in OR 5.1 is 156M 
+Net worth gain/loss of Ron in OR 5.1 is 180M 
+Net worth gain/loss of Pep in OR 5.1 is 131M 
+Net worth gain/loss of Dan in OR 5.1 is 143M 
+M1 has 80M 
+M2 has 145M 
+M3 has 80M 
+M4 has 20M 
+M5 has 100M 
+M6 has 0M 
+BY has 489M 
+SX has 320M 
+Peter has 140M 
+Ron has 118M 
+Pep has 107M 
+Dan has 142M 
+ ================== Start of Stock Round 6 ================== 
+Peter has the Priority Deal 
+Peter passes. 
+Ron passes. 
+Pep sells a 10% certificate of BY to Pool for 134M. 
+BY price goes from 134M(F2) to 122M(F3). 
+Pep sells 2 10% certificates (20%) of SX to Pool for 184M. 
+SX price goes from 92M(C3) to 88M(C4). 
+Pep starts BA at 84M and pays 168M for 2 shares (20%) to BANK 
+4 10% "PR" shares are now available for purchase 
+Dan buys a 10% share of SX from Pool for 88M. 
+Peter buys a 10% share of SX from Pool for 88M. 
+Ron passes. 
+Pep buys a 10% share of BA from IPO for 84M. 
+Dan autopasses 
+Peter passes. 
+Ron passes. 
+Pep buys a 10% share of BA from IPO for 84M. 
+Dan autopasses 
+Peter passes. 
+Ron passes. 
+Pep buys a 10% share of BA from IPO for 84M. 
+BA floats and receives 420M 
+All "WT" shares are now available for purchase 
+Dan sells 4 10% certificates (40%) of SX to Pool for 352M. 
+SX price goes from 88M(C4) to 86M(C5). 
+Dan starts WT at 84M and pays 168M for 2 shares (20%) to BANK 
+Peter sells a 10% certificate of BY to Pool for 122M. 
+BY price goes from 122M(F3) to 112M(F4). 
+Peter buys a 10% share of SX from Pool for 86M. 
+Ron buys a 10% share of BY from Pool for 112M. 
+Pep autopasses 
+Dan buys a 10% share of WT from IPO for 84M. 
+Peter sells a 10% certificate of BY to Pool for 112M. 
+BY price goes from 112M(F4) to 104M(F5). 
+Peter buys a 10% share of SX from Pool for 86M. 
+Ron passes. 
+Pep autopasses 
+Dan buys a 10% share of WT from IPO for 84M. 
+Peter buys a 10% share of SX from Pool for 86M. 
+Ron passes. 
+Pep autopasses 
+Dan sells a 10% certificate of BY to Pool for 104M. 
+BY price goes from 104M(F5) to 98M(F6). 
+Dan buys a 10% share of WT from IPO for 84M. 
+WT floats and receives 420M 
+All "HE" shares are now available for purchase 
+Peter passes. 
+Ron passes. 
+Pep autopasses 
+Dan buys a 10% share of WT from IPO for 84M. 
+The price (84M) is paid to WT 
+Peter passes. 
+Ron passes. 
+Pep autopasses 
+Dan passes. 
+ 
+All players have passed, end of SR 6 
+M1 has 80M 
+M2 has 145M 
+M3 has 80M 
+M4 has 20M 
+M5 has 100M 
+M6 has 0M 
+BY has 489M 
+SX has 320M 
+BA has 420M 
+WT has 504M 
+Peter has 28M 
+Ron has 6M 
+Pep has 5M 
+Dan has 6M 
+ ======================= Start of Operating Round 6.1 ======================= 
+Peter receives 5M for NF. 
+Dan receives 10M for OBB. 
+Pep receives 15M for PfB. 
+Pep receives 25M for BB. 
+Dan receives 30M for HB. 
+ 
+M1 (Ron) operates. 
+M1 lays tile #207 at hex H2/E 
+M1 earns 50M 
+M1 splits dividend of 50M 
+M1 receives 25M from the split of the revenue. 
+Ron receives 25M for 1 100% shares 
+M1 buys a 2-train from M6 for 105M. 
+
+ 
+M2 (Dan) operates. 
+M2 lays tile #209 at hex E19/NE 
+M2 earns 80M 
+M2 splits dividend of 80M 
+M2 receives 40M from the split of the revenue. 
+Dan receives 40M for 1 100% shares 
+M2 buys a 3-train from IPO for 180M. 
+
+ 
+M3 (Peter) operates. 
+M3 lays tile #206 at hex H16/SE 
+M3 earns 50M 
+M3 splits dividend of 50M 
+M3 receives 25M from the split of the revenue. 
+Peter receives 25M for 1 100% shares 
+M3 buys a 2-train from SX for 105M. 
+
+ 
+M4 (Pep) operates. 
+M4 lays tile #14 at hex G5/SW 
+M4 earns 130M 
+M4 splits dividend of 130M 
+M4 receives 65M from the split of the revenue. 
+Pep receives 65M for 1 100% shares 
+
+ 
+M5 (Peter) operates. 
+M5 lays tile #207 at hex H20/NW 
+M5 earns 80M 
+M5 splits dividend of 80M 
+M5 receives 40M from the split of the revenue. 
+Peter receives 40M for 1 100% shares 
+
+ 
+M6 (Ron) operates. 
+M6 lays tile #12 at hex A11/W 
+M6 earns 90M 
+M6 splits dividend of 90M 
+M6 receives 45M from the split of the revenue. 
+Ron receives 45M for 1 100% shares 
+
+ 
+BY (Ron) operates. 
+BY lays tile #13 at hex N12/SW 
+BY lays a token on N12 for 40M 
+BY earns 190M 
+BY pays out full dividend of 190M 
+Pep receives 19M for 1 10% shares 
+Ron receives 114M for 6 10% shares 
+BY receives 57M for 3 10% shares 
+BY price goes from 98M(F6) to 106M(G6). 
+
+ 
+SX (Peter) operates. 
+SX lays tile #205 at hex F14/NW 
+SX lays a token on E19 for 60M 
+SX earns 300M 
+SX pays out full dividend of 300M 
+Ron receives 30M for 1 10% shares 
+Peter receives 240M for 8 10% shares 
+SX receives 30M for 1 10% shares 
+SX price goes from 86M(C5) to 90M(D5). 
+SX buys a 3-train from IPO for 180M. 
+All 3-trains are sold out, 3+3-trains now available 
+
+ 
+BA (Pep) operates. 
+BA lays tile #215 at hex L6/NW 
+BA lays tile #204 at hex M7/NE 
+BA does not pay a dividend 
+BA price goes from 84M(B4) to 78M(A4). 
+BA buys a 3+3-train from IPO for 270M. 
+First 3+3-train bought. 
+BA buys a 2-train from M4 for 1M. 
+
+ 
+WT (Dan) operates. 
+WT lays tile #14 at hex M9/W 
+WT does not pay a dividend 
+WT price goes from 84M(B4) to 78M(A4). 
+WT buys a 2-train from M2 for 1M. 
+WT buys a 3+3-train from IPO for 270M. 
+
+ 
+End of Operating Round 6.1 
+Net worth gain/loss of Peter in OR 6.1 is 342M 
+Net worth gain/loss of Ron in OR 6.1 is 266M 
+Net worth gain/loss of Pep in OR 6.1 is 102M 
+Net worth gain/loss of Dan in OR 6.1 is 44M 
+M1 has 0M 
+M2 has 6M 
+M3 has 0M 
+M4 has 86M 
+M5 has 140M 
+M6 has 150M 
+BY has 506M 
+SX has 215M 
+BA has 149M 
+WT has 233M 
+Peter has 338M 
+Ron has 220M 
+Pep has 129M 
+Dan has 86M 
+ ======================= Start of Operating Round 6.2 ======================= 
+Peter receives 5M for NF. 
+Dan receives 10M for OBB. 
+Pep receives 15M for PfB. 
+Pep receives 25M for BB. 
+Dan receives 30M for HB. 
+ 
+M1 (Ron) operates. 
+M1 lays tile #8 at hex G7/W 
+M1 earns 100M 
+M1 splits dividend of 100M 
+M1 receives 50M from the split of the revenue. 
+Ron receives 50M for 1 100% shares 
+
+ 
+M2 (Dan) operates. 
+M2 lays tile #27 at hex H18/E 
+M2 earns 120M 
+M2 splits dividend of 120M 
+M2 receives 60M from the split of the revenue. 
+Dan receives 60M for 1 100% shares 
+
+ 
+M3 (Peter) operates. 
+M3 lays tile #8 at hex E13/NE 
+M3 earns 110M 
+M3 splits dividend of 110M 
+M3 receives 55M from the split of the revenue. 
+Peter receives 55M for 1 100% shares 
+
+ 
+M4 (Pep) operates. 
+M4 lays tile #9 at hex F8/SW 
+M4 earns 90M 
+M4 splits dividend of 90M 
+M4 receives 45M from the split of the revenue. 
+Pep receives 45M for 1 100% shares 
+M4 buys a 2-train from BA for 131M. 
+
+ 
+M5 (Peter) operates. 
+M5 lays tile #55 at hex I17/W 
+M5 earns 80M 
+M5 splits dividend of 80M 
+M5 receives 40M from the split of the revenue. 
+Peter receives 40M for 1 100% shares 
+M5 buys a 2+2-train from SX for 180M. 
+
+ 
+M6 (Ron) operates. 
+M6 lays tile #87 at hex B16/SE 
+M6 earns 90M 
+M6 splits dividend of 90M 
+M6 receives 45M from the split of the revenue. 
+Ron receives 45M for 1 100% shares 
+M6 buys a 2-train from BY for 195M. 
+
+ 
+BY (Ron) operates. 
+BY lays tile #204 at hex N10/W 
+BY earns 140M 
+BY pays out full dividend of 140M 
+Ron receives 84M for 6 10% shares 
+Pep receives 14M for 1 10% shares 
+BY receives 42M for 3 10% shares 
+BY price goes from 106M(G6) to 114M(G5). 
+BY buys a 3+3-train from IPO for 270M. 
+All 3+3-trains are sold out, 4-trains now available 
+BY buys a 4-train from IPO for 360M. 
+First 4-train bought. 
+Start of phase 4. 
+All 2-trains have rusted and have been removed. 
+ ++++++++++++++++++++++++ Starting PR formation round ++++++++++++++++++++++++ 
+Starting player is Dan 
+
+ 
+End of PR formation round, resuming OperatingRound 6.2 
+
+ 
+SX (Peter) operates. 
+SX lays tile #88 at hex I17/NW 
+SX earns 310M 
+SX pays out full dividend of 310M 
+Peter receives 248M for 8 10% shares 
+Ron receives 31M for 1 10% shares 
+SX receives 31M for 1 10% shares 
+SX price goes from 90M(D5) to 96M(E5). 
+
+ 
+BA (Pep) operates. 
+BA lays tile #23 at hex J2/NW 
+BA earns 150M 
+BA pays out full dividend of 150M 
+Pep receives 75M for 5 10% shares 
+BA price goes from 78M(A4) to 84M(B4). 
+
+ 
+WT (Dan) operates. 
+WT lays tile #69 at hex L8/SW 
+WT earns 130M 
+WT pays out full dividend of 130M 
+Dan receives 78M for 6 10% shares 
+WT price goes from 78M(A4) to 84M(B4). 
+
+ 
+End of Operating Round 6.2 
+Net worth gain/loss of Peter in OR 6.2 is 396M 
+Net worth gain/loss of Ron in OR 6.2 is 264M 
+Net worth gain/loss of Pep in OR 6.2 is 212M 
+Net worth gain/loss of Dan in OR 6.2 is 214M 
+M1 has 50M 
+M2 has 66M 
+M3 has 55M 
+M4 has 0M 
+M5 has 0M 
+M6 has 0M 
+BY has 113M 
+SX has 426M 
+BA has 280M 
+WT has 233M 
+Peter has 686M 
+Ron has 430M 
+Pep has 303M 
+Dan has 264M 
+ ++++++++++++++++++++++++ Starting PR formation round ++++++++++++++++++++++++ 
+Starting player is Dan 
+
+ 
+End of PR formation round 
+ ================== Start of Stock Round 7 ================== 
+Peter has the Priority Deal 
+Peter starts HE at 84M and pays 168M for 2 shares (20%) to BANK 
+Ron buys a 10% share of PR from IPO for 154M. 
+Pep buys a 10% share of SX from Pool for 96M. 
+Dan buys a 10% share of PR from IPO for 154M. 
+Peter buys a 10% share of PR from IPO for 154M. 
+Ron buys a 10% share of PR from IPO for 154M. 
+Pep buys a 10% share of BA from IPO for 84M. 
+The price (84M) is paid to BA 
+Dan buys a 10% share of WT from IPO for 84M. 
+The price (84M) is paid to WT 
+Peter buys a 10% share of BY from Pool for 114M. 
+Ron buys a 10% share of BY from Pool for 114M. 
+Pep buys a 10% share of BA from IPO for 84M. 
+The price (84M) is paid to BA 
+Dan autopasses 
+Peter buys a 10% share of BA from IPO for 84M. 
+The price (84M) is paid to BA 
+Ron autopasses 
+Pep sells a 10% certificate of BY to Pool for 114M. 
+BY price goes from 114M(G5) to 106M(G6). 
+Pep sells a 10% certificate of SX to Pool for 96M. 
+SX price goes from 96M(E5) to 92M(E6). 
+Pep buys a 20% share of BA from IPO for 168M. 
+The price (168M) is paid to BA 
+Dan autopasses 
+Peter buys a 10% share of SX from Pool for 92M. 
+Ron autopasses 
+Pep passes. 
+Dan autopasses 
+Peter sells a 10% certificate of BA to Pool for 84M. 
+BA price goes from 84M(B4) to 80M(B5). 
+Peter buys a 10% share of BY from Pool for 106M. 
+Ron autopasses 
+Pep buys a 10% share of BA from Pool for 80M. 
+Dan autopasses 
+Peter passes. 
+Ron autopasses 
+Pep passes. 
+ 
+All players have passed, end of SR 7 
+SX price goes from 92M(E6) to 96M(E5). 
+SX is sold out, price rises from 92M(E6) to 96M(E5) 
+BA price goes from 80M(B5) to 84M(B4). 
+BA is sold out, price rises from 80M(B5) to 84M(B4) 
+M1 has 50M 
+M2 has 66M 
+M3 has 55M 
+M4 has 0M 
+M5 has 0M 
+M6 has 0M 
+BY has 113M 
+SX has 426M 
+BA has 700M 
+WT has 317M 
+Peter has 52M 
+Ron has 8M 
+Pep has 1M 
+Dan has 26M 
+ ++++++++++++++++++++++++ Starting PR formation round ++++++++++++++++++++++++ 
+Starting player is Dan 
+
+ 
+End of PR formation round 
+ ======================= Start of Operating Round 7.1 ======================= 
+Peter receives 5M for NF. 
+Dan receives 10M for OBB. 
+Pep receives 15M for PfB. 
+Pep receives 25M for BB. 
+Dan receives 30M for HB. 
+ 
+M1 (Ron) operates. 
+M1 does not pay a dividend 
+
+ 
+M2 (Dan) operates. 
+M2 lays tile #87 at hex B14/SE 
+M2 earns 120M 
+M2 splits dividend of 120M 
+M2 receives 60M from the split of the revenue. 
+Dan receives 60M for 1 100% shares 
+
+ 
+M3 (Peter) operates. 
+M3 lays tile #28 at hex E13/NE 
+M3 does not pay a dividend 
+
+ 
+M4 (Pep) operates. 
+M4 lays tile #9 at hex E9/SW 
+M4 earns 90M 
+M4 splits dividend of 90M 
+M4 receives 45M from the split of the revenue. 
+Pep receives 45M for 1 100% shares 
+
+ 
+M5 (Peter) operates. 
+M5 lays tile #28 at hex D14/NW 
+M5 earns 100M 
+M5 splits dividend of 100M 
+M5 receives 50M from the split of the revenue. 
+Peter receives 50M for 1 100% shares 
+
+ 
+M6 (Ron) operates. 
+M6 lays tile #7 at hex B18/W 
+M6 earns 90M 
+M6 splits dividend of 90M 
+M6 receives 45M from the split of the revenue. 
+Ron receives 45M for 1 100% shares 
+
+ 
+BY (Ron) operates. 
+BY lays tile #9 at hex M11/SW 
+BY earns 290M 
+BY pays out full dividend of 290M 
+Peter receives 58M for 2 10% shares 
+Ron receives 203M for 7 10% shares 
+BY receives 29M for 1 10% shares 
+BY price goes from 106M(G6) to 114M(G5). 
+
+ 
+SX (Peter) operates. 
+SX lays tile #4 at hex I15/W 
+SX earns 310M 
+SX pays out full dividend of 310M 
+Peter receives 279M for 9 10% shares 
+Ron receives 31M for 1 10% shares 
+SX price goes from 96M(E5) to 104M(F5). 
+
+ 
+WT (Dan) operates. 
+WT lays tile #9 at hex K5/NW 
+WT earns 140M 
+WT pays out full dividend of 140M 
+Dan receives 98M for 7 10% shares 
+WT price goes from 84M(B4) to 88M(C4). 
+WT buys a 3-train from M2 for 1M. 
+
+ 
+BA (Pep) operates. 
+BA lays tile #9 at hex D10/SW 
+BA lays a token on C11 for 180M 
+BA earns 150M 
+BA pays out full dividend of 150M 
+Pep receives 150M for 10 10% shares 
+BA price goes from 84M(B4) to 88M(C4). 
+BA buys a 4-train from IPO for 360M. 
+
+ 
+End of Operating Round 7.1 
+Net worth gain/loss of Peter in OR 7.1 is 480M 
+Net worth gain/loss of Ron in OR 7.1 is 343M 
+Net worth gain/loss of Pep in OR 7.1 is 275M 
+Net worth gain/loss of Dan in OR 7.1 is 226M 
+M1 has 50M 
+M2 has 127M 
+M3 has 55M 
+M4 has 45M 
+M5 has 50M 
+M6 has 45M 
+BY has 142M 
+SX has 426M 
+BA has 160M 
+WT has 316M 
+Peter has 444M 
+Ron has 287M 
+Pep has 236M 
+Dan has 224M 
+ ++++++++++++++++++++++++ Starting PR formation round ++++++++++++++++++++++++ 
+Starting player is Dan 
+
+ 
+End of PR formation round 
+ ======================= Start of Operating Round 7.2 ======================= 
+Peter receives 5M for NF. 
+Dan receives 10M for OBB. 
+Pep receives 15M for PfB. 
+Pep receives 25M for BB. 
+Dan receives 30M for HB. 
+ 
+M1 (Ron) operates. 
+M1 lays tile #88 at hex H4/NW 
+M1 does not pay a dividend 
+
+ 
+M2 (Dan) operates. 
+M2 lays tile #8 at hex F20/NE 
+M2 does not pay a dividend 
+M2 buys a 3-train from WT for 127M. 
+
+ 
+M3 (Peter) operates. 
+M3 lays tile #15 at hex F10/NW 
+M3 does not pay a dividend 
+
+ 
+M4 (Pep) operates. 
+M4 lays tile #24 at hex E9/NE 
+M4 earns 90M 
+M4 splits dividend of 90M 
+M4 receives 45M from the split of the revenue. 
+Pep receives 45M for 1 100% shares 
+
+ 
+M5 (Peter) operates. 
+M5 lays tile #23 at hex F20/NW 
+M5 earns 100M 
+M5 splits dividend of 100M 
+M5 receives 50M from the split of the revenue. 
+Peter receives 50M for 1 100% shares 
+
+ 
+M6 (Ron) operates. 
+M6 lays tile #9 at hex C17/NW 
+M6 earns 90M 
+M6 splits dividend of 90M 
+M6 receives 45M from the split of the revenue. 
+Ron receives 45M for 1 100% shares 
+
+ 
+BY (Ron) operates. 
+BY lays tile #12 at hex O5/SE 
+BY earns 290M 
+BY pays out full dividend of 290M 
+Peter receives 58M for 2 10% shares 
+Ron receives 203M for 7 10% shares 
+BY receives 29M for 1 10% shares 
+BY price goes from 114M(G5) to 126M(H5). 
+
+ 
+SX (Peter) operates. 
+SX lays tile #23 at hex G19/SE 
+SX earns 330M 
+SX pays out full dividend of 330M 
+Peter receives 297M for 9 10% shares 
+Ron receives 33M for 1 10% shares 
+SX price goes from 104M(F5) to 114M(G5). 
+
+ 
+WT (Dan) operates. 
+WT lays tile #9 at hex L12/SW 
+WT earns 140M 
+WT pays out full dividend of 140M 
+Dan receives 98M for 7 10% shares 
+WT price goes from 88M(C4) to 94M(D4). 
+WT buys a 3-train from M2 for 1M. 
+WT buys a 4-train from IPO for 360M. 
+All 4-trains are sold out, 4+4-trains now available 
+
+ 
+BA (Pep) operates. 
+BA lays tile #19 at hex M11/NE 
+BA earns 270M 
+BA pays out full dividend of 270M 
+Pep receives 270M for 10 10% shares 
+BA price goes from 88M(C4) to 94M(D4). 
+BA buys a 2+2-train from M4 for 1M. 
+
+ 
+End of Operating Round 7.2 
+Net worth gain/loss of Peter in OR 7.2 is 524M 
+Net worth gain/loss of Ron in OR 7.2 is 375M 
+Net worth gain/loss of Pep in OR 7.2 is 415M 
+Net worth gain/loss of Dan in OR 7.2 is 180M 
+M1 has 50M 
+M2 has 1M 
+M3 has 55M 
+M4 has 91M 
+M5 has 100M 
+M6 has 90M 
+BY has 171M 
+SX has 426M 
+BA has 159M 
+WT has 82M 
+Peter has 854M 
+Ron has 568M 
+Pep has 591M 
+Dan has 362M 
+ ++++++++++++++++++++++++ Starting PR formation round ++++++++++++++++++++++++ 
+Starting player is Dan 
+PR starts at 154M (154M) 
+PR floats and receives 616M 
+Dan merges minor M2 into PR, with 1M cash and 0 train(s) 
+Dan gets a 10% share of PR from IPO in exchange for M2 
+PR exchanges the M2 base token on E19/1 
+Ron merges minor M1 into PR, with 50M cash and 0 train(s) 
+Ron gets a 5% share of PR from IPO in exchange for M1 
+PR exchanges the M1 base token on H2/1 
+
+ 
+End of PR formation round 
+Ron is now president of PR 
+ ================== Start of Stock Round 8 ================== 
+Dan has the Priority Deal 
+Dan buys a 10% share of BY from Pool for 126M. 
+Peter passes. 
+Ron passes. 
+Pep buys a 10% share of WT from IPO for 84M. 
+The price (84M) is paid to WT 
+Dan buys a 20% share of WT from IPO for 168M. 
+The price (168M) is paid to WT 
+Peter passes. 
+Ron buys a 10% share of BY from Peter for 189M. 
+Pep passes. 
+Dan passes. 
+Peter buys a 10% share of HE from IPO for 84M. 
+Ron passes. 
+Pep passes. 
+Dan autopasses 
+Peter buys a 10% share of HE from IPO for 84M. 
+Ron passes. 
+Pep passes. 
+Dan autopasses 
+Peter passes. 
+ 
+All players have passed, end of SR 8 
+PR price goes from 154M(I4) to 170M(I3). 
+PR is sold out, price rises from 154M(I4) to 170M(I3) 
+BY price goes from 126M(H5) to 138M(H4). 
+BY is sold out, price rises from 126M(H5) to 138M(H4) 
+SX price goes from 114M(G5) to 124M(G4). 
+SX is sold out, price rises from 114M(G5) to 124M(G4) 
+WT price goes from 94M(D4) to 100M(D3). 
+WT is sold out, price rises from 94M(D4) to 100M(D3) 
+BA price goes from 94M(D4) to 100M(D3). 
+BA is sold out, price rises from 94M(D4) to 100M(D3) 
+M3 has 55M 
+M4 has 91M 
+M5 has 100M 
+M6 has 90M 
+BY has 171M 
+SX has 426M 
+BA has 159M 
+WT has 334M 
+PR has 667M 
+Peter has 875M 
+Ron has 379M 
+Pep has 507M 
+Dan has 68M 
+ ++++++++++++++++++++++++ Starting PR formation round ++++++++++++++++++++++++ 
+Dan merges minor HB into PR, with no cash and no train(s) 
+Dan gets a 10% share of PR from IPO in exchange for HB 
+Private HB is closed 
+Ron merges minor M6 into PR, with 90M cash and 1 train(s) 
+Ron gets a 5% share of PR from IPO in exchange for M6 
+PR exchanges the M6 base token on C11/1 
+Pep merges minor BB into PR, with no cash and no train(s) 
+Pep gets a 10% share of PR from IPO in exchange for BB 
+Private BB is closed 
+Pep merges minor M4 into PR, with 91M cash and 0 train(s) 
+Pep gets a 10% share of PR from IPO in exchange for M4 
+PR exchanges the M4 base token on G5/1 
+ 
+End of PR formation round 
+ ======================= Start of Operating Round 8.1 ======================= 
+Peter receives 5M for NF. 
+Dan receives 10M for OBB. 
+Pep receives 15M for PfB. 
+ 
+M3 (Peter) operates. 
+M3 lays tile #58 at hex G11/SW 
+M3 does not pay a dividend 
+M3 buys a 2+2-train from M5 for 55M. 
+
+ 
+M5 (Peter) operates. 
+M5 lays tile #203 at hex B12/W 
+M5 does not pay a dividend 
+M5 buys a 3-train from SX for 155M. 
+
+ 
+PR (Ron) operates. 
+PR earns 100M 
+PR pays out full dividend of 100M 
+Peter receives 10M for 2 5% shares 
+Ron receives 30M for 6 5% shares 
+Pep receives 20M for 4 5% shares 
+Dan receives 30M for 6 5% shares 
+PR price goes from 170M(I3) to 190M(J3). 
+PR buys a 4-train from BY for 848M. 
+
+ 
+BY (Ron) operates. 
+BY lays tile #9 at hex K13/SW 
+BY lays a token on L6 for 120M 
+BY earns 220M 
+BY pays out full dividend of 220M 
+Peter receives 22M for 1 10% shares 
+Ron receives 176M for 8 10% shares 
+Dan receives 22M for 1 10% shares 
+BY price goes from 138M(H4) to 154M(I4). 
+BY buys a 4+4-train from IPO for 440M. 
+All 4+4-trains are sold out, 5-trains now available 
+First 4+4-train bought. 
+Start of phase 4+4. 
+All 2+2-trains have rusted and have been removed. 
+
+ 
+SX (Peter) operates. 
+SX lays tile #25 at hex F16/W 
+SX earns 230M 
+SX pays out full dividend of 230M 
+Peter receives 207M for 9 10% shares 
+Ron receives 23M for 1 10% shares 
+SX price goes from 124M(G4) to 138M(H4). 
+
+ 
+WT (Dan) operates. 
+WT lays tile #26 at hex K13/NE 
+WT lays a token on L14 for 60M 
+WT earns 240M 
+WT pays out full dividend of 240M 
+Pep receives 24M for 1 10% shares 
+Dan receives 216M for 9 10% shares 
+WT price goes from 100M(D3) to 110M(E3). 
+
+ 
+BA (Pep) operates. 
+BA lays tile #3 at hex H10/NW 
+BA earns 270M 
+BA pays out full dividend of 270M 
+Pep receives 270M for 10 10% shares 
+BA price goes from 100M(D3) to 110M(E3). 
+
+ 
+End of Operating Round 8.1 
+Net worth gain/loss of Peter in OR 8.1 is 406M 
+Net worth gain/loss of Ron in OR 8.1 is 431M 
+Net worth gain/loss of Pep in OR 8.1 is 479M 
+Net worth gain/loss of Dan in OR 8.1 is 444M 
+M3 has 0M 
+M5 has 0M 
+BY has 459M 
+SX has 581M 
+BA has 159M 
+WT has 274M 
+PR has 0M 
+Peter has 1119M 
+Ron has 608M 
+Pep has 836M 
+Dan has 346M 
+ ++++++++++++++++++++++++ Starting PR formation round ++++++++++++++++++++++++ 
+
+ 
+End of PR formation round 
+ ======================= Start of Operating Round 8.2 ======================= 
+Peter receives 5M for NF. 
+Dan receives 10M for OBB. 
+Pep receives 15M for PfB. 
+ 
+M3 (Peter) operates. 
+M3 lays tile #203 at hex G11/W 
+M3 does not pay a dividend 
+
+ 
+M5 (Peter) operates. 
+M5 lays tile #24 at hex F18/NE 
+M5 earns 120M 
+M5 splits dividend of 120M 
+M5 receives 60M from the split of the revenue. 
+Peter receives 60M for 1 100% shares 
+
+ 
+PR (Ron) operates. 
+PR lays tile #16 at hex D18/NW 
+PR earns 150M 
+PR pays out full dividend of 150M 
+Peter receives 15M for 2 5% shares 
+Pep receives 30M for 4 5% shares 
+Ron receives 45M for 6 5% shares 
+Dan receives 45M for 6 5% shares 
+PR price goes from 190M(J3) to 212M(K3). 
+
+ 
+BY (Ron) operates. 
+BY lays tile #8 at hex O9/W 
+BY earns 280M 
+BY pays out full dividend of 280M 
+Peter receives 28M for 1 10% shares 
+Ron receives 224M for 8 10% shares 
+Dan receives 28M for 1 10% shares 
+BY price goes from 154M(I4) to 172M(J4). 
+
+ 
+SX (Peter) operates. 
+SX lays tile #9 at hex H14/W 
+SX earns 230M 
+SX pays out full dividend of 230M 
+Peter receives 207M for 9 10% shares 
+Ron receives 23M for 1 10% shares 
+SX price goes from 138M(H4) to 154M(I4). 
+SX buys a 5-train from IPO for 500M. 
+First 5-train bought. 
+Start of phase 5. 
+All privates close 
+Private NF is closed 
+Private OBB is closed 
+Private PfB is closed 
+SX discards a 3-train to Pool 
+WT discards a 3-train to Pool 
+ ++++++++++++++++++++++++ Starting PR formation round ++++++++++++++++++++++++ 
+Peter merges minor M3 into PR, with 0M cash and 0 train(s) 
+Peter gets a 5% share of PR from IPO in exchange for M3 
+PR exchanges the M3 base token on F14/1 
+Peter merges minor M5 into PR, with 60M cash and 1 train(s) 
+Peter gets a 5% share of PR from IPO in exchange for M5 
+ 
+End of PR formation round, resuming OperatingRound 8.2 
+
+ 
+WT (Dan) operates. 
+WT lays tile #63 at hex N12/SW 
+WT earns 230M 
+WT pays out full dividend of 230M 
+Pep receives 23M for 1 10% shares 
+Dan receives 207M for 9 10% shares 
+WT price goes from 110M(E3) to 122M(F3). 
+
+ 
+BA (Pep) operates. 
+BA lays tile #218 at hex L6/NW 
+BA earns 260M 
+BA pays out full dividend of 260M 
+Pep receives 260M for 10 10% shares 
+BA price goes from 110M(E3) to 122M(F3). 
+
+ 
+End of Operating Round 8.2 
+Net worth gain/loss of Peter in OR 8.2 is 611M 
+Net worth gain/loss of Ron in OR 8.2 is 518M 
+Net worth gain/loss of Pep in OR 8.2 is 354M 
+Net worth gain/loss of Dan in OR 8.2 is 362M 
+BY has 459M 
+SX has 81M 
+BA has 159M 
+WT has 274M 
+PR has 60M 
+Peter has 1434M 
+Ron has 900M 
+Pep has 1164M 
+Dan has 636M 
+ ================== Start of Stock Round 9 ================== 
+Ron has the Priority Deal 
+Ron buys a 10% share of BY from Dan for 258M. 
+Pep passes. 
+Dan buys a 10% share of HE from IPO for 84M. 
+HE floats and receives 420M 
+Peter buys a 10% share of HE from IPO for 84M. 
+The price (84M) is paid to HE 
+Ron passes. 
+Pep passes. 
+Dan buys a 10% share of HE from IPO for 84M. 
+The price (84M) is paid to HE 
+Peter sells a 5% certificate of PR to Pool for 106M. 
+PR price goes from 212M(K3) to 192M(K4). 
+Peter buys a 10% share of SX from Ron for 231M. 
+Ron buys a 5% share of PR from Pool for 96M. 
+Pep passes. 
+Dan buys a 10% share of HE from IPO for 84M. 
+The price (84M) is paid to HE 
+Peter sells a 5% certificate of PR to Pool for 96M. 
+Peter buys a 20% share of HE from IPO for 168M. 
+The price (168M) is paid to HE 
+All "MS" shares are now available for purchase 
+Ron starts MS at 80M and pays 160M for 2 shares (20%) to BANK 
+Pep buys a 20% share of MS from IPO for 160M. 
+Dan buys a 20% share of MS from IPO for 160M. 
+MS floats and receives 480M 
+All "OL" shares are now available for purchase 
+Peter passes. 
+Ron buys a 10% share of MS from IPO for 80M. 
+The price (80M) is paid to MS 
+Pep passes. 
+Dan buys a 10% share of MS from IPO for 80M. 
+The price (80M) is paid to MS 
+Peter passes. 
+Ron buys a 10% share of MS from IPO for 80M. 
+The price (80M) is paid to MS 
+Pep starts OL at 80M and pays 160M for 2 shares (20%) to BANK 
+Dan buys a 10% share of MS from IPO for 80M. 
+The price (80M) is paid to MS 
+Peter sells a 10% certificate of PR to Pool for 192M. 
+Peter buys a 20% share of OL from IPO for 160M. 
+Ron passes. 
+Pep buys a 20% share of OL from IPO for 160M. 
+OL floats and receives 480M 
+Dan passes. 
+Peter passes. 
+Ron passes. 
+Pep buys a 10% share of PR from Pool for 192M. 
+Dan passes. 
+Peter passes. 
+Ron passes. 
+Pep buys a 10% share of OL from IPO for 80M. 
+The price (80M) is paid to OL 
+Dan passes. 
+Peter passes. 
+Ron passes. 
+Pep sells a 10% certificate of WT to Pool for 122M. 
+WT price goes from 122M(F3) to 112M(F4). 
+Pep buys a 10% share of OL from IPO for 80M. 
+The price (80M) is paid to OL 
+Dan sells a 10% certificate of PR to Pool for 192M. 
+Dan buys a 10% share of WT from Pool for 112M. 
+Peter passes. 
+Ron sells a 5% certificate of PR to Pool for 96M. 
+Ron buys a 10% share of BY from Peter for 258M. 
+Pep sells a 10% certificate of BA to Pool for 122M. 
+BA price goes from 122M(F3) to 112M(F4). 
+Pep buys a 20% share of OL from Peter for 240M. 
+Dan passes. 
+Peter buys a 10% share of BA from Pool for 112M. 
+Ron passes. 
+Pep buys a 10% share of PR from Pool for 192M. 
+Pep is now president of PR 
+Dan passes. 
+Peter buys a 10% share of HE from Dan for 126M. 
+Ron passes. 
+Pep passes. 
+Dan buys a 10% share of OL from IPO for 80M. 
+The price (80M) is paid to OL 
+Peter buys a 10% share of OL from IPO for 80M. 
+The price (80M) is paid to OL 
+Ron passes. 
+Pep passes. 
+Dan passes. 
+Peter passes. 
+ 
+All players have passed, end of SR 9 
+BY price goes from 172M(J4) to 190M(J3). 
+BY is sold out, price rises from 172M(J4) to 190M(J3) 
+SX price goes from 154M(I4) to 170M(I3). 
+SX is sold out, price rises from 154M(I4) to 170M(I3) 
+WT price goes from 112M(F4) to 122M(F3). 
+WT is sold out, price rises from 112M(F4) to 122M(F3) 
+BA price goes from 112M(F4) to 122M(F3). 
+BA is sold out, price rises from 112M(F4) to 122M(F3) 
+HE price goes from 84M(B4) to 86M(B3). 
+HE is sold out, price rises from 84M(B4) to 86M(B3) 
+MS price goes from 80M(B5) to 84M(B4). 
+MS is sold out, price rises from 80M(B5) to 84M(B4) 
+OL price goes from 80M(B5) to 84M(B4). 
+OL is sold out, price rises from 80M(B5) to 84M(B4) 
+BY has 459M 
+SX has 81M 
+BA has 159M 
+WT has 274M 
+HE has 840M 
+MS has 800M 
+OL has 800M 
+PR has 60M 
+Peter has 1365M 
+Ron has 295M 
+Pep has 144M 
+Dan has 448M 
+ ======================= Start of Operating Round 9.1 ======================= 
+ 
+PR (Pep) operates. 
+PR lays tile #220 at hex E19/SW 
+PR earns 320M 
+PR pays out full dividend of 320M 
+Ron receives 96M for 6 5% shares 
+Pep receives 128M for 8 5% shares 
+Dan receives 64M for 4 5% shares 
+PR receives 32M for 2 5% shares 
+PR price goes from 192M(K4) to 214M(L4). 
+
+ 
+BY (Ron) operates. 
+BY lays tile #218 at hex L14/NE 
+BY earns 330M 
+BY pays out full dividend of 330M 
+Ron receives 330M for 10 10% shares 
+BY price goes from 190M(J3) to 212M(K3). 
+
+ 
+SX (Peter) operates. 
+SX lays tile #8 at hex H12/E for 70M 
+SX earns 340M 
+SX pays out full dividend of 340M 
+Peter receives 340M for 10 10% shares 
+SX price goes from 170M(I3) to 190M(J3). 
+
+ 
+WT (Dan) operates. 
+WT lays tile #45 at hex M11/NE 
+WT earns 270M 
+WT pays out full dividend of 270M 
+Dan receives 270M for 10 10% shares 
+WT price goes from 122M(F3) to 136M(G3). 
+
+ 
+BA (Pep) operates. 
+BA lays tile #221 at hex C11/W for 50M 
+BA earns 360M 
+BA pays out full dividend of 360M 
+Peter receives 36M for 1 10% shares 
+Pep receives 324M for 9 10% shares 
+BA price goes from 122M(F3) to 136M(G3). 
+
+ 
+HE (Peter) operates. 
+HE lays tile #8 at hex J10/W 
+HE does not pay a dividend 
+HE price goes from 86M(B3) to 82M(A3). 
+HE buys a 5-train from IPO for 500M. 
+All 5-trains are sold out, 5+5-trains now available 
+
+ 
+MS (Ron) operates. 
+MS lays tile #24 at hex G7/W 
+MS lays a token on C11 for 20M 
+MS does not pay a dividend 
+MS price goes from 84M(B4) to 78M(A4). 
+MS buys a 5+5-train from IPO for 600M. 
+All 5+5-trains are sold out, 6-trains now available 
+First 5+5-train bought. 
+MS buys a 3+3-train from BY for 180M. 
+
+ 
+OL (Pep) operates. 
+OL lays tile #42 at hex E9/NE 
+OL does not pay a dividend 
+OL price goes from 84M(B4) to 78M(A4). 
+OL buys a 6-train from IPO for 600M. 
+First 6-train bought. 
+Start of phase 6. 
+All 3-trains have rusted and have been removed. 
+
+ 
+End of Operating Round 9.1 
+Net worth gain/loss of Peter in OR 9.1 is 552M 
+Net worth gain/loss of Ron in OR 9.1 is 688M 
+Net worth gain/loss of Pep in OR 9.1 is 606M 
+Net worth gain/loss of Dan in OR 9.1 is 480M 
+BY has 639M 
+SX has 11M 
+BA has 109M 
+WT has 274M 
+HE has 340M 
+MS has 0M 
+OL has 200M 
+PR has 92M 
+Peter has 1741M 
+Ron has 721M 
+Pep has 596M 
+Dan has 782M 
+ ======================= Start of Operating Round 9.2 ======================= 
+ 
+PR (Pep) operates. 
+PR lays tile #216 at hex H20/E 
+PR earns 210M 
+PR pays out full dividend of 210M 
+Ron receives 63M for 6 5% shares 
+Pep receives 84M for 8 5% shares 
+Dan receives 42M for 4 5% shares 
+PR receives 21M for 2 5% shares 
+PR price goes from 214M(L4) to 236M(L3). 
+
+ 
+BY (Ron) operates. 
+BY lays tile #207 at hex O15/W 
+BY earns 210M 
+BY pays out full dividend of 210M 
+Ron receives 210M for 10 10% shares 
+BY price goes from 212M(K3) to 236M(L3). 
+BY buys a 6-train from IPO for 600M. 
+All 6-trains are sold out, 6+6-trains now available 
+
+ 
+SX (Peter) operates. 
+SX lays tile #9 at hex I11/SW 
+SX earns 240M 
+SX pays out full dividend of 240M 
+Peter receives 240M for 10 10% shares 
+SX price goes from 190M(J3) to 212M(K3). 
+
+ 
+WT (Dan) operates. 
+WT lays tile #8 at hex J14/E for 70M 
+WT earns 300M 
+WT pays out full dividend of 300M 
+Dan receives 300M for 10 10% shares 
+WT price goes from 136M(G3) to 152M(H3). 
+
+ 
+BA (Pep) operates. 
+BA lays tile #216 at hex H2/SW 
+BA earns 380M 
+BA pays out full dividend of 380M 
+Peter receives 38M for 1 10% shares 
+Pep receives 342M for 9 10% shares 
+BA price goes from 136M(G3) to 152M(H3). 
+
+ 
+HE (Peter) operates. 
+HE lays tile #63 at hex H16/SW 
+HE lays a token on H16 for 100M 
+HE earns 250M 
+HE pays out full dividend of 250M 
+Peter receives 200M for 8 10% shares 
+Dan receives 50M for 2 10% shares 
+HE price goes from 82M(A3) to 86M(B3). 
+
+ 
+MS (Ron) operates. 
+MS lays tile #46 at hex H18/W 
+MS earns 470M 
+MS pays out full dividend of 470M 
+Ron receives 188M for 4 10% shares 
+Pep receives 94M for 2 10% shares 
+Dan receives 188M for 4 10% shares 
+MS price goes from 78M(A4) to 84M(B4). 
+
+ 
+OL (Pep) operates. 
+OL lays tile #215 at hex G3/W for 50M 
+OL lays a token on G3 for 60M 
+OL earns 200M 
+OL pays out full dividend of 200M 
+Peter receives 20M for 1 10% shares 
+Pep receives 160M for 8 10% shares 
+Dan receives 20M for 1 10% shares 
+OL price goes from 78M(A4) to 84M(B4). 
+
+ 
+End of Operating Round 9.2 
+Net worth gain/loss of Peter in OR 9.2 is 772M 
+Net worth gain/loss of Ron in OR 9.2 is 791M 
+Net worth gain/loss of Pep in OR 9.2 is 972M 
+Net worth gain/loss of Dan in OR 9.2 is 842M 
+BY has 39M 
+SX has 11M 
+BA has 109M 
+WT has 204M 
+HE has 240M 
+MS has 0M 
+OL has 90M 
+PR has 113M 
+Peter has 2239M 
+Ron has 1182M 
+Pep has 1276M 
+Dan has 1382M 
+ ======================= Start of Operating Round 9.3 ======================= 
+ 
+PR (Pep) operates. 
+PR lays tile #202 at hex I3/NE for 50M 
+PR earns 210M 
+PR pays out full dividend of 210M 
+Ron receives 63M for 6 5% shares 
+Pep receives 84M for 8 5% shares 
+Dan receives 42M for 4 5% shares 
+PR receives 21M for 2 5% shares 
+PR price goes from 236M(L3) to 262M(M3). 
+
+ 
+BY (Ron) operates. 
+BY lays tile #216 at hex O15/E 
+BY earns 450M 
+BY pays out full dividend of 450M 
+Ron receives 450M for 10 10% shares 
+BY price goes from 236M(L3) to 262M(M3). 
+
+ 
+SX (Peter) operates. 
+SX earns 250M 
+SX pays out full dividend of 250M 
+Peter receives 250M for 10 10% shares 
+SX price goes from 212M(K3) to 236M(L3). 
+
+ 
+WT (Dan) operates. 
+WT lays tile #42 at hex K13/NE 
+WT earns 320M 
+WT pays out full dividend of 320M 
+Dan receives 320M for 10 10% shares 
+WT price goes from 152M(H3) to 170M(I3). 
+
+ 
+BA (Pep) operates. 
+BA lays tile #207 at hex I3/SW 
+BA earns 380M 
+BA pays out full dividend of 380M 
+Peter receives 38M for 1 10% shares 
+Pep receives 342M for 9 10% shares 
+BA price goes from 152M(H3) to 170M(I3). 
+
+ 
+HE (Peter) operates. 
+HE lays tile #216 at hex J8/W for 50M 
+HE earns 260M 
+HE pays out full dividend of 260M 
+Peter receives 208M for 8 10% shares 
+Dan receives 52M for 2 10% shares 
+HE price goes from 86M(B3) to 92M(C3). 
+
+ 
+MS (Ron) operates. 
+MS lays tile #43 at hex D18/NW 
+MS earns 500M 
+MS pays out full dividend of 500M 
+Ron receives 200M for 4 10% shares 
+Pep receives 100M for 2 10% shares 
+Dan receives 200M for 4 10% shares 
+MS price goes from 84M(B4) to 88M(C4). 
+
+ 
+OL (Pep) operates. 
+OL lays tile #41 at hex J2/NW 
+OL earns 220M 
+OL pays out full dividend of 220M 
+Peter receives 22M for 1 10% shares 
+Pep receives 176M for 8 10% shares 
+Dan receives 22M for 1 10% shares 
+OL price goes from 84M(B4) to 88M(C4). 
+
+ 
+End of Operating Round 9.3 
+Net worth gain/loss of Peter in OR 9.3 is 828M 
+Net worth gain/loss of Ron in OR 9.3 is 1067M 
+Net worth gain/loss of Pep in OR 9.3 is 1008M 
+Net worth gain/loss of Dan in OR 9.3 is 900M 
+BY has 39M 
+SX has 11M 
+BA has 109M 
+WT has 204M 
+HE has 190M 
+MS has 0M 
+OL has 90M 
+PR has 84M 
+Peter has 2757M 
+Ron has 1895M 
+Pep has 1978M 
+Dan has 2018M 
+ ================== Start of Stock Round 10 ================== 
+Ron has the Priority Deal 
+Ron passes. 
+Pep passes. 
+Dan passes. 
+Peter passes. 
+ 
+All players have passed, end of SR 10 
+BY price goes from 262M(M3) to 288M(M2). 
+BY is sold out, price rises from 262M(M3) to 288M(M2) 
+SX price goes from 236M(L3) to 260M(L2). 
+SX is sold out, price rises from 236M(L3) to 260M(L2) 
+WT price goes from 170M(I3) to 188M(I2). 
+WT is sold out, price rises from 170M(I3) to 188M(I2) 
+BA price goes from 170M(I3) to 188M(I2). 
+BA is sold out, price rises from 170M(I3) to 188M(I2) 
+HE price goes from 92M(C3) to 98M(C2). 
+HE is sold out, price rises from 92M(C3) to 98M(C2) 
+MS price goes from 88M(C4) to 92M(C3). 
+MS is sold out, price rises from 88M(C4) to 92M(C3) 
+OL price goes from 88M(C4) to 92M(C3). 
+OL is sold out, price rises from 88M(C4) to 92M(C3) 
+BY has 39M 
+SX has 11M 
+BA has 109M 
+WT has 204M 
+HE has 190M 
+MS has 0M 
+OL has 90M 
+PR has 84M 
+Peter has 2757M 
+Ron has 1895M 
+Pep has 1978M 
+Dan has 2018M 
+ ======================= Start of Operating Round 10.1 ======================= 
+ 
+BY (Ron) operates. 
+BY lays tile #25 at hex N14/SE 
+BY earns 480M 
+BY pays out full dividend of 480M 
+Ron receives 480M for 10 10% shares 
+BY price goes from 288M(M2) to 318M(N2). 
+
+ 
+PR (Pep) operates. 
+PR lays tile #8 at hex G9/SE 
+PR earns 210M 
+PR pays out full dividend of 210M 
+Ron receives 63M for 6 5% shares 
+Pep receives 84M for 8 5% shares 
+Dan receives 42M for 4 5% shares 
+PR receives 21M for 2 5% shares 
+PR price goes from 262M(M3) to 290M(N3). 
+
+ 
+SX (Peter) operates. 
+SX earns 260M 
+SX pays out full dividend of 260M 
+Peter receives 260M for 10 10% shares 
+SX price goes from 260M(L2) to 288M(M2). 
+
+ 
+WT (Dan) operates. 
+WT lays tile #25 at hex O9/NE 
+WT earns 330M 
+WT pays out full dividend of 330M 
+Dan receives 330M for 10 10% shares 
+WT price goes from 188M(I2) to 210M(J2). 
+
+ 
+BA (Pep) operates. 
+BA earns 410M 
+BA pays out full dividend of 410M 
+Peter receives 41M for 1 10% shares 
+Pep receives 369M for 9 10% shares 
+BA price goes from 188M(I2) to 210M(J2). 
+
+ 
+HE (Peter) operates. 
+HE lays tile #210 at hex J6/SE for 50M 
+HE earns 260M 
+HE pays out full dividend of 260M 
+Peter receives 208M for 8 10% shares 
+Dan receives 52M for 2 10% shares 
+HE price goes from 98M(C2) to 108M(D2). 
+
+ 
+MS (Ron) operates. 
+MS lays tile #63 at hex F14/SW 
+MS earns 500M 
+MS pays out full dividend of 500M 
+Ron receives 200M for 4 10% shares 
+Pep receives 100M for 2 10% shares 
+Dan receives 200M for 4 10% shares 
+MS price goes from 92M(C3) to 100M(D3). 
+
+ 
+OL (Pep) operates. 
+OL earns 220M 
+OL pays out full dividend of 220M 
+Peter receives 22M for 1 10% shares 
+Pep receives 176M for 8 10% shares 
+Dan receives 22M for 1 10% shares 
+OL price goes from 92M(C3) to 100M(D3). 
+
+ 
+End of Operating Round 10.1 
+Net worth gain/loss of Peter in OR 10.1 is 921M 
+Net worth gain/loss of Ron in OR 10.1 is 1159M 
+Net worth gain/loss of Pep in OR 10.1 is 1119M 
+Net worth gain/loss of Dan in OR 10.1 is 982M 
+BY has 39M 
+SX has 11M 
+BA has 109M 
+WT has 204M 
+HE has 140M 
+MS has 0M 
+OL has 90M 
+PR has 105M 
+Peter has 3288M 
+Ron has 2638M 
+Pep has 2707M 
+Dan has 2664M 
+ ======================= Start of Operating Round 10.2 ======================= 
+ 
+BY (Ron) operates. 
+BY lays tile #46 at hex D14/SW 
+BY earns 480M 
+BY pays out full dividend of 480M 
+Bank is broken 
+Ron receives 480M for 10 10% shares 
+BY price goes from 318M(N2) to 350M(O2). 
+
+ 
+PR (Pep) operates. 
+PR earns 210M 
+PR pays out full dividend of 210M 
+Ron receives 63M for 6 5% shares 
+Pep receives 84M for 8 5% shares 
+Dan receives 42M for 4 5% shares 
+PR receives 21M for 2 5% shares 
+PR price goes from 290M(N3) to 320M(O3). 
+
+ 
+SX (Peter) operates. 
+SX lays tile #7 at hex I5/SE 
+SX earns 260M 
+SX pays out full dividend of 260M 
+Peter receives 260M for 10 10% shares 
+SX price goes from 288M(M2) to 318M(N2). 
+
+ 
+WT (Dan) operates. 
+WT lays tile #8 at hex O11/E 
+WT earns 330M 
+WT pays out full dividend of 330M 
+Dan receives 330M for 10 10% shares 
+WT price goes from 210M(J2) to 234M(K2). 
+
+ 
+BA (Pep) operates. 
+BA lays tile #8 at hex C9/E 
+BA earns 410M 
+BA pays out full dividend of 410M 
+Peter receives 41M for 1 10% shares 
+Pep receives 369M for 9 10% shares 
+BA price goes from 210M(J2) to 234M(K2). 
+
+ 
+HE (Peter) operates. 
+HE lays tile #217 at hex J6/SE 
+HE earns 260M 
+HE pays out full dividend of 260M 
+Peter receives 208M for 8 10% shares 
+Dan receives 52M for 2 10% shares 
+HE price goes from 108M(D2) to 120M(E2). 
+
+ 
+MS (Ron) operates. 
+MS earns 500M 
+MS pays out full dividend of 500M 
+Ron receives 200M for 4 10% shares 
+Pep receives 100M for 2 10% shares 
+Dan receives 200M for 4 10% shares 
+MS price goes from 100M(D3) to 110M(E3). 
+
+ 
+OL (Pep) operates. 
+OL lays tile #28 at hex L4/NW 
+OL earns 220M 
+OL pays out full dividend of 220M 
+Peter receives 22M for 1 10% shares 
+Pep receives 176M for 8 10% shares 
+Dan receives 22M for 1 10% shares 
+OL price goes from 100M(D3) to 110M(E3). 
+(**)  
+End of Operating Round 10.2 
+Net worth gain/loss of Peter in OR 10.2 is 961M 
+Net worth gain/loss of Ron in OR 10.2 is 1193M 
+Net worth gain/loss of Pep in OR 10.2 is 1165M 
+Net worth gain/loss of Dan in OR 10.2 is 1020M 
+BY has 39M 
+SX has 11M 
+BA has 109M 
+WT has 204M 
+HE has 140M 
+MS has 0M 
+OL has 90M 
+PR has 126M 
+Peter has 3819M 
+Ron has 3381M 
+Pep has 3436M 
+Dan has 3310M 
+The game is over. 
+The winner is Peter! 
+Final ranking : 
+1. 8303M Peter 
+2. 8281M Ron 
+3. 7922M Pep 
+4. 7080M Dan
