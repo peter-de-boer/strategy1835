@@ -1,0 +1,10 @@
+name: str1835
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - pandas
+  - jupyter
+  - matplotlib
+  - seaborn
+
